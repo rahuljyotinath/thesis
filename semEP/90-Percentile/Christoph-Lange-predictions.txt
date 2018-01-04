@@ -1,4 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
-Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Josef Urban	http://dblp.org/pers/u/Urban:Josef	1
-Josef Urban	http://dblp.org/pers/u/Urban:Josef	Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	0

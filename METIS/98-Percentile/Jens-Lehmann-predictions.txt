@@ -1,8 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Pankesh Patel	http://dblp.org/pers/p/Patel:Pankesh	1
-Pankesh Patel	http://dblp.org/pers/p/Patel:Pankesh	Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	1
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Raphael Volz	http://dblp.org/pers/v/Volz:Raphael	1
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Giovanni Semeraro	http://dblp.org/pers/s/Semeraro:Giovanni	1
-Kerry L. Taylor	http://dblp.org/pers/t/Taylor:Kerry_L=	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Giorgio Orsi	http://dblp.org/pers/o/Orsi:Giorgio	1
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	0

@@ -1,2 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Wan Fokkink	http://dblp.org/pers/f/Fokkink:Wan	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1

@@ -1,2 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	0

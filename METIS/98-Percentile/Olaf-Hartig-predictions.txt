@@ -1,2 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Ubbo Visser	http://dblp.org/pers/v/Visser:Ubbo	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1

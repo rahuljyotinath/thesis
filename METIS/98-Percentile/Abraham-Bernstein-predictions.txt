@@ -1,2 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-María S. Pérez-Hernández	http://dblp.org/pers/p/P=eacute=rez=Hern=aacute=ndez:Mar=iacute=a_S=	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1

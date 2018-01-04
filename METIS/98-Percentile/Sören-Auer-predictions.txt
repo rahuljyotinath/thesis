@@ -1,8 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
-Margaret-Anne D. Storey	http://dblp.org/pers/s/Storey:Margaret=Anne_D=	Ora Lassila	http://dblp.org/pers/l/Lassila:Ora	1
-Margaret-Anne D. Storey	http://dblp.org/pers/s/Storey:Margaret=Anne_D=	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
-Ora Lassila	http://dblp.org/pers/l/Lassila:Ora	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
-Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Danièle Bourcier	http://dblp.org/pers/b/Bourcier:Dani=egrave=le	1
-Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Mihai Codescu	http://dblp.org/pers/c/Codescu:Mihai	1
-Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Orri Erling	http://dblp.org/pers/e/Erling:Orri	0

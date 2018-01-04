@@ -1,4 +1,0 @@
-Author-1	Author-1-link	Author-2	Author-2-link	Prediction
-Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
-Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
-Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
