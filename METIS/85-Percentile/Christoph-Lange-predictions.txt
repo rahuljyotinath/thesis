@@ -1,0 +1,16 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Angelo Di Iorio	http://dblp.org/pers/i/Iorio:Angelo_Di	Conor Hayes	http://dblp.org/pers/h/Hayes:Conor	1
+Angelo Di Iorio	http://dblp.org/pers/i/Iorio:Angelo_Di	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Thomas Gottron	http://dblp.org/pers/g/Gottron:Thomas	Hala Skaf-Molli	http://dblp.org/pers/s/Skaf=Molli:Hala	1
+Angelo Di Iorio	http://dblp.org/pers/i/Iorio:Angelo_Di	Hala Skaf-Molli	http://dblp.org/pers/s/Skaf=Molli:Hala	1
+Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	Conor Hayes	http://dblp.org/pers/h/Hayes:Conor	1
+Hala Skaf-Molli	http://dblp.org/pers/s/Skaf=Molli:Hala	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Conor Hayes	http://dblp.org/pers/h/Hayes:Conor	1
+Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	Hala Skaf-Molli	http://dblp.org/pers/s/Skaf=Molli:Hala	1
+Thomas Gottron	http://dblp.org/pers/g/Gottron:Thomas	Conor Hayes	http://dblp.org/pers/h/Hayes:Conor	1
+Conor Hayes	http://dblp.org/pers/h/Hayes:Conor	Hala Skaf-Molli	http://dblp.org/pers/s/Skaf=Molli:Hala	1
+Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	Angelo Di Iorio	http://dblp.org/pers/i/Iorio:Angelo_Di	1
+Thomas Gottron	http://dblp.org/pers/g/Gottron:Thomas	Angelo Di Iorio	http://dblp.org/pers/i/Iorio:Angelo_Di	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Thomas Gottron	http://dblp.org/pers/g/Gottron:Thomas	1
+Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Thomas Gottron	http://dblp.org/pers/g/Gottron:Thomas	Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	0

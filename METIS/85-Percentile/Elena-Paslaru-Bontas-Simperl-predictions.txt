@@ -1,0 +1,74 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Veli Bicer	http://dblp.org/pers/b/Bicer:Veli	1
+Thanh Tran 	http://dblp.org/pers/t/Tran_0001:Thanh	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Vanessa López	http://dblp.org/pers/l/L=oacute=pez:Vanessa	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Wolf Siberski	http://dblp.org/pers/s/Siberski:Wolf	Thanh Tran 	http://dblp.org/pers/t/Tran_0001:Thanh	1
+Thanh Tran 	http://dblp.org/pers/t/Tran_0001:Thanh	Vanessa López	http://dblp.org/pers/l/L=oacute=pez:Vanessa	1
+Vanessa López	http://dblp.org/pers/l/L=oacute=pez:Vanessa	Wolf Siberski	http://dblp.org/pers/s/Siberski:Wolf	1
+Wolf Siberski	http://dblp.org/pers/s/Siberski:Wolf	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Wolf Siberski	http://dblp.org/pers/s/Siberski:Wolf	Veli Bicer	http://dblp.org/pers/b/Bicer:Veli	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Thanh Tran 	http://dblp.org/pers/t/Tran_0001:Thanh	1
+Veli Bicer	http://dblp.org/pers/b/Bicer:Veli	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Wolf Siberski	http://dblp.org/pers/s/Siberski:Wolf	1
+Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Eero Hyvönen	http://dblp.org/pers/h/Hyv=ouml=nen:Eero	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Varun Ratnakar	http://dblp.org/pers/r/Ratnakar:Varun	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Varun Ratnakar	http://dblp.org/pers/r/Ratnakar:Varun	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	1
+Varun Ratnakar	http://dblp.org/pers/r/Ratnakar:Varun	Eero Hyvönen	http://dblp.org/pers/h/Hyv=ouml=nen:Eero	1
+Eero Hyvönen	http://dblp.org/pers/h/Hyv=ouml=nen:Eero	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Varun Ratnakar	http://dblp.org/pers/r/Ratnakar:Varun	1
+Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	Eero Hyvönen	http://dblp.org/pers/h/Hyv=ouml=nen:Eero	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Eero Hyvönen	http://dblp.org/pers/h/Hyv=ouml=nen:Eero	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Jennifer Golbeck	http://dblp.org/pers/g/Golbeck:Jennifer	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Jennifer Golbeck	http://dblp.org/pers/g/Golbeck:Jennifer	1
+Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	1
+Jennifer Golbeck	http://dblp.org/pers/g/Golbeck:Jennifer	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Jennifer Golbeck	http://dblp.org/pers/g/Golbeck:Jennifer	Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Jennifer Golbeck	http://dblp.org/pers/g/Golbeck:Jennifer	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Gianluca Demartini	http://dblp.org/pers/d/Demartini:Gianluca	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	John Domingue	http://dblp.org/pers/d/Domingue:John	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Gianluca Demartini	http://dblp.org/pers/d/Demartini:Gianluca	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Gianluca Demartini	http://dblp.org/pers/d/Demartini:Gianluca	John Domingue	http://dblp.org/pers/d/Domingue:John	1
+John Domingue	http://dblp.org/pers/d/Domingue:John	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Gianluca Demartini	http://dblp.org/pers/d/Demartini:Gianluca	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	John Domingue	http://dblp.org/pers/d/Domingue:John	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	Gianluca Demartini	http://dblp.org/pers/d/Demartini:Gianluca	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+John Domingue	http://dblp.org/pers/d/Domingue:John	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Veli Bicer	http://dblp.org/pers/b/Bicer:Veli	Thanh Tran 	http://dblp.org/pers/t/Tran_0001:Thanh	0
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Vanessa López	http://dblp.org/pers/l/L=oacute=pez:Vanessa	0
+Vanessa López	http://dblp.org/pers/l/L=oacute=pez:Vanessa	Veli Bicer	http://dblp.org/pers/b/Bicer:Veli	0
+Varun Ratnakar	http://dblp.org/pers/r/Ratnakar:Varun	Yolanda Gil	http://dblp.org/pers/g/Gil:Yolanda	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	0

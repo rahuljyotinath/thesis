@@ -1,0 +1,7 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Michel Dumontier	http://dblp.org/pers/d/Dumontier:Michel	Egon L. Willighagen	http://dblp.org/pers/w/Willighagen:Egon_L=	1
+Jin-Dong Kim	http://dblp.org/pers/k/Kim:Jin=Dong	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Michel Dumontier	http://dblp.org/pers/d/Dumontier:Michel	Jin-Dong Kim	http://dblp.org/pers/k/Kim:Jin=Dong	1
+Egon L. Willighagen	http://dblp.org/pers/w/Willighagen:Egon_L=	Jin-Dong Kim	http://dblp.org/pers/k/Kim:Jin=Dong	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Michel Dumontier	http://dblp.org/pers/d/Dumontier:Michel	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Egon L. Willighagen	http://dblp.org/pers/w/Willighagen:Egon_L=	1

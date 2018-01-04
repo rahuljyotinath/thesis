@@ -1,0 +1,3 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Zharko Aleksovski	http://dblp.org/pers/a/Aleksovski:Zharko	1
+Louiqa Raschid	http://dblp.org/pers/r/Raschid:Louiqa	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	0

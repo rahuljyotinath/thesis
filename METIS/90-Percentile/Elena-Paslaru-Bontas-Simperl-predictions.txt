@@ -1,0 +1,35 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Pieter Colpaert	http://dblp.org/pers/c/Colpaert:Pieter	1
+Peter Mechant	http://dblp.org/pers/m/Mechant:Peter	Yanan Zhang	http://dblp.org/pers/z/Zhang:Yanan	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Peter Mechant	http://dblp.org/pers/m/Mechant:Peter	1
+Yanan Zhang	http://dblp.org/pers/z/Zhang:Yanan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Pieter Colpaert	http://dblp.org/pers/c/Colpaert:Pieter	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Yanan Zhang	http://dblp.org/pers/z/Zhang:Yanan	1
+Pieter Colpaert	http://dblp.org/pers/c/Colpaert:Pieter	Yanan Zhang	http://dblp.org/pers/z/Zhang:Yanan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Peter Mechant	http://dblp.org/pers/m/Mechant:Peter	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Sabine Maßmann	http://dblp.org/pers/m/Massmann:Sabine	1
+Sabine Maßmann	http://dblp.org/pers/m/Massmann:Sabine	Anja Jentzsch	http://dblp.org/pers/j/Jentzsch:Anja	1
+Anja Jentzsch	http://dblp.org/pers/j/Jentzsch:Anja	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Anja Jentzsch	http://dblp.org/pers/j/Jentzsch:Anja	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Sabine Maßmann	http://dblp.org/pers/m/Massmann:Sabine	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Lucas Leidinger	http://dblp.org/pers/l/Leidinger:Lucas	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Lucas Leidinger	http://dblp.org/pers/l/Leidinger:Lucas	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Lucas Leidinger	http://dblp.org/pers/l/Leidinger:Lucas	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Dumitru Roman	http://dblp.org/pers/r/Roman:Dumitru	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Dumitru Roman	http://dblp.org/pers/r/Roman:Dumitru	1
+Barry Norton	http://dblp.org/pers/n/Norton:Barry	Dumitru Roman	http://dblp.org/pers/r/Roman:Dumitru	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Barry Norton	http://dblp.org/pers/n/Norton:Barry	1
+Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Laurent Lefort	http://dblp.org/pers/l/Lefort:Laurent	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Laurent Lefort	http://dblp.org/pers/l/Lefort:Laurent	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Laurent Lefort	http://dblp.org/pers/l/Lefort:Laurent	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Pieter Colpaert	http://dblp.org/pers/c/Colpaert:Pieter	Peter Mechant	http://dblp.org/pers/m/Mechant:Peter	0
+Barry Norton	http://dblp.org/pers/n/Norton:Barry	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0

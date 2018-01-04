@@ -1,0 +1,117 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	1
+Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	1
+Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	1
+Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	1
+Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	1
+Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	1
+Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Mariano Rodriguez-Muro	http://dblp.org/pers/r/Rodriguez=Muro:Mariano	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Charalampos Nikolaou	http://dblp.org/pers/n/Nikolaou:Charalampos	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	1
+Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	1
+Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	1
+Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	1
+Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	1
+Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Ekaterini Ioannou	http://dblp.org/pers/i/Ioannou:Ekaterini	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Iris Miliaraki	http://dblp.org/pers/m/Miliaraki:Iris	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	1
+Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	1
+Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	1
+Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	1
+Simon Walk	http://dblp.org/pers/w/Walk:Simon	Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	1
+Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Simon Walk	http://dblp.org/pers/w/Walk:Simon	1
+Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	Simon Walk	http://dblp.org/pers/w/Walk:Simon	1
+Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	1
+Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Alessandra Sala	http://dblp.org/pers/s/Sala:Alessandra	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	Simon Walk	http://dblp.org/pers/w/Walk:Simon	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Simon Walk	http://dblp.org/pers/w/Walk:Simon	1
+Kemele M. Endris	http://dblp.org/pers/e/Endris:Kemele_M=	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Fabian Flöck	http://dblp.org/pers/f/Fl=ouml=ck:Fabian	Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	1
+Yannis Stavrakas	http://dblp.org/pers/s/Stavrakas:Yannis	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Nikos Bikakis	http://dblp.org/pers/b/Bikakis:Nikos	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Nikos Bikakis	http://dblp.org/pers/b/Bikakis:Nikos	1
+Yannis Stavrakas	http://dblp.org/pers/s/Stavrakas:Yannis	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Yannis Stavrakas	http://dblp.org/pers/s/Stavrakas:Yannis	Nikos Bikakis	http://dblp.org/pers/b/Bikakis:Nikos	1
+Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	1
+Michael Compton	http://dblp.org/pers/c/Compton:Michael	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	1
+Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	Michael Compton	http://dblp.org/pers/c/Compton:Michael	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Michael Compton	http://dblp.org/pers/c/Compton:Michael	Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	1
+Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Michael Compton	http://dblp.org/pers/c/Compton:Michael	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Michael Compton	http://dblp.org/pers/c/Compton:Michael	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	Michael Compton	http://dblp.org/pers/c/Compton:Michael	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	David L. Martin 	http://dblp.org/pers/m/Martin_0001:David_L=	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Michael Compton	http://dblp.org/pers/c/Compton:Michael	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Christoph Pinkel	http://dblp.org/pers/p/Pinkel:Christoph	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Konstantinos Kotis	http://dblp.org/pers/k/Kotis:Konstantinos	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	0
+Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	0
+Valeria Fionda	http://dblp.org/pers/f/Fionda:Valeria	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	0
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Renzo Angles	http://dblp.org/pers/a/Angles:Renzo	0
+Carlos Buil Aranda	http://dblp.org/pers/a/Aranda:Carlos_Buil	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	0
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	0
+Philipp Singer	http://dblp.org/pers/s/Singer:Philipp	Simon Walk	http://dblp.org/pers/w/Walk:Simon	0
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	0

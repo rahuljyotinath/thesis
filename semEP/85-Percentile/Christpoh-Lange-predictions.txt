@@ -1,0 +1,22 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	Charith Perera	http://dblp.org/pers/p/Perera:Charith	1
+Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	1
+Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	Josef Urban	http://dblp.org/pers/u/Urban:Josef	1
+James Cheney	http://dblp.org/pers/c/Cheney:James	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	1
+James Cheney	http://dblp.org/pers/c/Cheney:James	Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	1
+Josef Urban	http://dblp.org/pers/u/Urban:Josef	Charith Perera	http://dblp.org/pers/p/Perera:Charith	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	1
+James Cheney	http://dblp.org/pers/c/Cheney:James	Josef Urban	http://dblp.org/pers/u/Urban:Josef	1
+Charith Perera	http://dblp.org/pers/p/Perera:Charith	James Cheney	http://dblp.org/pers/c/Cheney:James	1
+Josef Urban	http://dblp.org/pers/u/Urban:Josef	Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	1
+Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	James Cheney	http://dblp.org/pers/c/Cheney:James	1
+Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	Charith Perera	http://dblp.org/pers/p/Perera:Charith	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Josef Urban	http://dblp.org/pers/u/Urban:Josef	1
+Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	1
+Charith Perera	http://dblp.org/pers/p/Perera:Charith	Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	1
+James Cheney	http://dblp.org/pers/c/Cheney:James	Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Aram Galstyan	http://dblp.org/pers/g/Galstyan:Aram	1
+Tobias Kuhn	http://dblp.org/pers/k/Kuhn:Tobias	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Charith Perera	http://dblp.org/pers/p/Perera:Charith	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Josef Urban	http://dblp.org/pers/u/Urban:Josef	Cezary Kaliszyk	http://dblp.org/pers/k/Kaliszyk:Cezary	0

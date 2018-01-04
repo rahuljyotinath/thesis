@@ -1,0 +1,104 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	1
+Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	1
+Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	John G. Breslin	http://dblp.org/pers/b/Breslin:John_G=	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	John G. Breslin	http://dblp.org/pers/b/Breslin:John_G=	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+John G. Breslin	http://dblp.org/pers/b/Breslin:John_G=	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+John G. Breslin	http://dblp.org/pers/b/Breslin:John_G=	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+John G. Breslin	http://dblp.org/pers/b/Breslin:John_G=	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Ujwal Gadiraju	http://dblp.org/pers/g/Gadiraju:Ujwal	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Ujwal Gadiraju	http://dblp.org/pers/g/Gadiraju:Ujwal	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Ujwal Gadiraju	http://dblp.org/pers/g/Gadiraju:Ujwal	1
+Ujwal Gadiraju	http://dblp.org/pers/g/Gadiraju:Ujwal	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	0
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	0
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Harith Alani	http://dblp.org/pers/a/Alani:Harith	0
+Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	0
+Diego Reforgiato Recupero	http://dblp.org/pers/r/Recupero:Diego_Reforgiato	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	0
+Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	0
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	0
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Andrea Giovanni Nuzzolese	http://dblp.org/pers/n/Nuzzolese:Andrea_Giovanni	0
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	0
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	0

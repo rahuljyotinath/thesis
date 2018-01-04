@@ -1,0 +1,75 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Dieter Fensel	http://dblp.org/pers/f/Fensel:Dieter	Diego Calvanese	http://dblp.org/pers/c/Calvanese:Diego	1
+Dieter Fensel	http://dblp.org/pers/f/Fensel:Dieter	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Dieter Fensel	http://dblp.org/pers/f/Fensel:Dieter	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Diego Calvanese	http://dblp.org/pers/c/Calvanese:Diego	1
+Toshio Uchiyama	http://dblp.org/pers/u/Uchiyama:Toshio	Feng Cao	http://dblp.org/pers/c/Cao:Feng	1
+Feng Cao	http://dblp.org/pers/c/Cao:Feng	Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Feng Cao	http://dblp.org/pers/c/Cao:Feng	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Toshio Uchiyama	http://dblp.org/pers/u/Uchiyama:Toshio	1
+Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	Toshio Uchiyama	http://dblp.org/pers/u/Uchiyama:Toshio	1
+Yuanbo Guo	http://dblp.org/pers/g/Guo:Yuanbo	Evren Sirin	http://dblp.org/pers/s/Sirin:Evren	1
+Christopher Thomas	http://dblp.org/pers/t/Thomas:Christopher	Evren Sirin	http://dblp.org/pers/s/Sirin:Evren	1
+Yuanbo Guo	http://dblp.org/pers/g/Guo:Yuanbo	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Christopher Thomas	http://dblp.org/pers/t/Thomas:Christopher	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Evren Sirin	http://dblp.org/pers/s/Sirin:Evren	1
+Christopher Thomas	http://dblp.org/pers/t/Thomas:Christopher	Yuanbo Guo	http://dblp.org/pers/g/Guo:Yuanbo	1
+Christophe Guéret	http://dblp.org/pers/g/Gu=eacute=ret:Christophe	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Giuseppe De Giacomo	http://dblp.org/pers/g/Giacomo:Giuseppe_De	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Giuseppe De Giacomo	http://dblp.org/pers/g/Giacomo:Giuseppe_De	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Christophe Guéret	http://dblp.org/pers/g/Gu=eacute=ret:Christophe	Giuseppe De Giacomo	http://dblp.org/pers/g/Giacomo:Giuseppe_De	1
+Christophe Guéret	http://dblp.org/pers/g/Gu=eacute=ret:Christophe	Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	1
+Christophe Guéret	http://dblp.org/pers/g/Gu=eacute=ret:Christophe	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	1
+Thomas Krennwallner	http://dblp.org/pers/k/Krennwallner:Thomas	Theresa Swift	http://dblp.org/pers/s/Swift:Terrance	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Theresa Swift	http://dblp.org/pers/s/Swift:Terrance	1
+Theresa Swift	http://dblp.org/pers/s/Swift:Terrance	Giovambattista Ianni	http://dblp.org/pers/i/Ianni:Giovambattista	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	1
+Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	1
+Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Kathryn B. Laskey	http://dblp.org/pers/l/Laskey:Kathryn_B=	Ian Horrocks	http://dblp.org/pers/h/Horrocks:Ian	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Kathryn B. Laskey	http://dblp.org/pers/l/Laskey:Kathryn_B=	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Ian Horrocks	http://dblp.org/pers/h/Horrocks:Ian	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Kathryn B. Laskey	http://dblp.org/pers/l/Laskey:Kathryn_B=	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Andriy Nikolov	http://dblp.org/pers/n/Nikolov:Andriy	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Andriy Nikolov	http://dblp.org/pers/n/Nikolov:Andriy	Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	1
+Manfred Hauswirth	http://dblp.org/pers/h/Hauswirth:Manfred	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	Andriy Nikolov	http://dblp.org/pers/n/Nikolov:Andriy	1
+Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	Matthias Knorr	http://dblp.org/pers/k/Knorr:Matthias	1
+Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	1
+Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	Matthias Knorr	http://dblp.org/pers/k/Knorr:Matthias	1
+Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Matthias Knorr	http://dblp.org/pers/k/Knorr:Matthias	1
+Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	Matthias Knorr	http://dblp.org/pers/k/Knorr:Matthias	1
+Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	1
+Patricia Victor	http://dblp.org/pers/v/Victor:Patricia	Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Patricia Victor	http://dblp.org/pers/v/Victor:Patricia	1
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	1
+Patricia Victor	http://dblp.org/pers/v/Victor:Patricia	Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Diego Calvanese	http://dblp.org/pers/c/Calvanese:Diego	0
+Giuseppe De Giacomo	http://dblp.org/pers/g/Giacomo:Giuseppe_De	Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	0
+Giovambattista Ianni	http://dblp.org/pers/i/Ianni:Giovambattista	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	0
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Thomas Krennwallner	http://dblp.org/pers/k/Krennwallner:Thomas	0
+Giovambattista Ianni	http://dblp.org/pers/i/Ianni:Giovambattista	Thomas Krennwallner	http://dblp.org/pers/k/Krennwallner:Thomas	0
+Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	0
+Ian Horrocks	http://dblp.org/pers/h/Horrocks:Ian	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	0
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	0
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Andriy Nikolov	http://dblp.org/pers/n/Nikolov:Andriy	0

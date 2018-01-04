@@ -1,0 +1,87 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	1
+Jérôme Euzenat	http://dblp.org/pers/e/Euzenat:J=eacute=r=ocirc=me	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Jérôme Euzenat	http://dblp.org/pers/e/Euzenat:J=eacute=r=ocirc=me	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	1
+Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Jérôme Euzenat	http://dblp.org/pers/e/Euzenat:J=eacute=r=ocirc=me	1
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Jeff Z. Pan	http://dblp.org/pers/p/Pan:Jeff_Z=	Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	1
+Philippe Cudré-Mauroux	http://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe	Jeff Z. Pan	http://dblp.org/pers/p/Pan:Jeff_Z=	1
+Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	Philippe Cudré-Mauroux	http://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Philippe Cudré-Mauroux	http://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	1
+Philippe Cudré-Mauroux	http://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Jeff Z. Pan	http://dblp.org/pers/p/Pan:Jeff_Z=	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	Philippe Cudré-Mauroux	http://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	1
+Jeff Z. Pan	http://dblp.org/pers/p/Pan:Jeff_Z=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Michelle Cheatham	http://dblp.org/pers/c/Cheatham:Michelle	1
+Pedro A. Szekely	http://dblp.org/pers/s/Szekely:Pedro_A=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Pedro A. Szekely	http://dblp.org/pers/s/Szekely:Pedro_A=	1
+Pedro A. Szekely	http://dblp.org/pers/s/Szekely:Pedro_A=	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Pedro A. Szekely	http://dblp.org/pers/s/Szekely:Pedro_A=	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Michelle Cheatham	http://dblp.org/pers/c/Cheatham:Michelle	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Michelle Cheatham	http://dblp.org/pers/c/Cheatham:Michelle	Pedro A. Szekely	http://dblp.org/pers/s/Szekely:Pedro_A=	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Tania Tudorache	http://dblp.org/pers/t/Tudorache:Tania	1
+Davide Ceolin	http://dblp.org/pers/c/Ceolin:Davide	Catia Pesquita	http://dblp.org/pers/p/Pesquita:Catia	1
+Davide Ceolin	http://dblp.org/pers/c/Ceolin:Davide	Tania Tudorache	http://dblp.org/pers/t/Tudorache:Tania	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Catia Pesquita	http://dblp.org/pers/p/Pesquita:Catia	1
+Tania Tudorache	http://dblp.org/pers/t/Tudorache:Tania	Catia Pesquita	http://dblp.org/pers/p/Pesquita:Catia	1
+Catia Pesquita	http://dblp.org/pers/p/Pesquita:Catia	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Keerthi Thomas	http://dblp.org/pers/t/Thomas:Keerthi	Davide Ceolin	http://dblp.org/pers/c/Ceolin:Davide	1
+Keerthi Thomas	http://dblp.org/pers/t/Thomas:Keerthi	Tania Tudorache	http://dblp.org/pers/t/Tudorache:Tania	1
+Keerthi Thomas	http://dblp.org/pers/t/Thomas:Keerthi	Catia Pesquita	http://dblp.org/pers/p/Pesquita:Catia	1
+Davide Ceolin	http://dblp.org/pers/c/Ceolin:Davide	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Keerthi Thomas	http://dblp.org/pers/t/Thomas:Keerthi	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Davide Ceolin	http://dblp.org/pers/c/Ceolin:Davide	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Keerthi Thomas	http://dblp.org/pers/t/Thomas:Keerthi	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Vojtech Svátek	http://dblp.org/pers/s/Sv=aacute=tek:Vojtech	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Vojtech Svátek	http://dblp.org/pers/s/Sv=aacute=tek:Vojtech	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Vojtech Svátek	http://dblp.org/pers/s/Sv=aacute=tek:Vojtech	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Nigel Shadbolt	http://dblp.org/pers/s/Shadbolt:Nigel	1
+Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	1
+Vojtech Svátek	http://dblp.org/pers/s/Sv=aacute=tek:Vojtech	Marco Rospocher	http://dblp.org/pers/r/Rospocher:Marco	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Renée J. Miller	http://dblp.org/pers/m/Miller:Ren=eacute=e_J=	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Rafael Berlanga Llavori	http://dblp.org/pers/l/Llavori:Rafael_Berlanga	1
+Renée J. Miller	http://dblp.org/pers/m/Miller:Ren=eacute=e_J=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Renée J. Miller	http://dblp.org/pers/m/Miller:Ren=eacute=e_J=	Rafael Berlanga Llavori	http://dblp.org/pers/l/Llavori:Rafael_Berlanga	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	1
+Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	Renée J. Miller	http://dblp.org/pers/m/Miller:Ren=eacute=e_J=	1
+Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	Rafael Berlanga Llavori	http://dblp.org/pers/l/Llavori:Rafael_Berlanga	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Rafael Berlanga Llavori	http://dblp.org/pers/l/Llavori:Rafael_Berlanga	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Chiara Ghidini	http://dblp.org/pers/g/Ghidini:Chiara	Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	1
+Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	Renée J. Miller	http://dblp.org/pers/m/Miller:Ren=eacute=e_J=	1
+Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	0
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Jérôme Euzenat	http://dblp.org/pers/e/Euzenat:J=eacute=r=ocirc=me	0
+Jérôme Euzenat	http://dblp.org/pers/e/Euzenat:J=eacute=r=ocirc=me	Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	0
+Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	Jeff Z. Pan	http://dblp.org/pers/p/Pan:Jeff_Z=	0
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	0
+Michelle Cheatham	http://dblp.org/pers/c/Cheatham:Michelle	Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	0
+Patrick Lambrix	http://dblp.org/pers/l/Lambrix:Patrick	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	0
+Michelle Cheatham	http://dblp.org/pers/c/Cheatham:Michelle	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	0
+Tania Tudorache	http://dblp.org/pers/t/Tudorache:Tania	Matthew Horridge	http://dblp.org/pers/h/Horridge:Matthew	0
+Vojtech Svátek	http://dblp.org/pers/s/Sv=aacute=tek:Vojtech	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	0
+Rafael Berlanga Llavori	http://dblp.org/pers/l/Llavori:Rafael_Berlanga	Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	0
+Ernesto Jiménez-Ruiz	http://dblp.org/pers/j/Jim=eacute=nez=Ruiz:Ernesto	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	0

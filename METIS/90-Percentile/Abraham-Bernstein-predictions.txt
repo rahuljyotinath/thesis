@@ -1,0 +1,78 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Enrico Rukzio	http://dblp.org/pers/r/Rukzio:Enrico	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	Enrico Rukzio	http://dblp.org/pers/r/Rukzio:Enrico	1
+Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	Albrecht Schmidt 	http://dblp.org/pers/s/Schmidt_0001:Albrecht	1
+Albrecht Schmidt 	http://dblp.org/pers/s/Schmidt_0001:Albrecht	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Achille Fokoue	http://dblp.org/pers/f/Fokoue:Achille	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Alsayed Algergawy	http://dblp.org/pers/a/Algergawy:Alsayed	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Stefan Hagedorn	http://dblp.org/pers/h/Hagedorn:Stefan	1
+Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	Stefan Hagedorn	http://dblp.org/pers/h/Hagedorn:Stefan	1
+Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	Alsayed Algergawy	http://dblp.org/pers/a/Algergawy:Alsayed	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Stefan Hagedorn	http://dblp.org/pers/h/Hagedorn:Stefan	1
+Alsayed Algergawy	http://dblp.org/pers/a/Algergawy:Alsayed	Stefan Hagedorn	http://dblp.org/pers/h/Hagedorn:Stefan	1
+Alsayed Algergawy	http://dblp.org/pers/a/Algergawy:Alsayed	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Michael Sintek	http://dblp.org/pers/s/Sintek:Michael	1
+Michael Sintek	http://dblp.org/pers/s/Sintek:Michael	Carl Kesselman	http://dblp.org/pers/k/Kesselman:Carl	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Carl Kesselman	http://dblp.org/pers/k/Kesselman:Carl	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+John D. Nelson	http://dblp.org/pers/n/Nelson:John_D=	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	Gilson Libório Mendes	http://dblp.org/pers/m/Mendes:Gilson_Lib=oacute=rio	1
+John D. Nelson	http://dblp.org/pers/n/Nelson:John_D=	Gilson Libório Mendes	http://dblp.org/pers/m/Mendes:Gilson_Lib=oacute=rio	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Gilson Libório Mendes	http://dblp.org/pers/m/Mendes:Gilson_Lib=oacute=rio	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Thomas Lukasiewicz	http://dblp.org/pers/l/Lukasiewicz:Thomas	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Bettina Fazzinga	http://dblp.org/pers/f/Fazzinga:Bettina	1
+Thomas Lukasiewicz	http://dblp.org/pers/l/Lukasiewicz:Thomas	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Thomas Lukasiewicz	http://dblp.org/pers/l/Lukasiewicz:Thomas	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Bettina Fazzinga	http://dblp.org/pers/f/Fazzinga:Bettina	1
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Bettina Fazzinga	http://dblp.org/pers/f/Fazzinga:Bettina	1
+Wolfgang Nejdl	http://dblp.org/pers/n/Nejdl:Wolfgang	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Alexander Maedche	http://dblp.org/pers/m/Maedche:Alexander	1
+Wolfgang Nejdl	http://dblp.org/pers/n/Nejdl:Wolfgang	Alexander Maedche	http://dblp.org/pers/m/Maedche:Alexander	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Jon Iturrioz	http://dblp.org/pers/i/Iturrioz:Jon	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Tom Heath	http://dblp.org/pers/h/Heath:Tom	Gregory Karvounarakis	http://dblp.org/pers/k/Karvounarakis:Gregory	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Tom Heath	http://dblp.org/pers/h/Heath:Tom	1
+Gregory Karvounarakis	http://dblp.org/pers/k/Karvounarakis:Gregory	Jon Iturrioz	http://dblp.org/pers/i/Iturrioz:Jon	1
+Gregory Karvounarakis	http://dblp.org/pers/k/Karvounarakis:Gregory	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Tom Heath	http://dblp.org/pers/h/Heath:Tom	Jon Iturrioz	http://dblp.org/pers/i/Iturrioz:Jon	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	1
+John Domingue	http://dblp.org/pers/d/Domingue:John	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	1
+John Domingue	http://dblp.org/pers/d/Domingue:John	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+John Domingue	http://dblp.org/pers/d/Domingue:John	Bijan Parsia	http://dblp.org/pers/p/Parsia:Bijan	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Francesca A. Lisi	http://dblp.org/pers/l/Lisi:Francesca_A=	1
+Francesca A. Lisi	http://dblp.org/pers/l/Lisi:Francesca_A=	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	1
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	1
+Francesca A. Lisi	http://dblp.org/pers/l/Lisi:Francesca_A=	Ansgar Scherp	http://dblp.org/pers/s/Scherp:Ansgar	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Thanassis Tiropanis	http://dblp.org/pers/t/Tiropanis:Thanassis	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Thanassis Tiropanis	http://dblp.org/pers/t/Tiropanis:Thanassis	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Thanassis Tiropanis	http://dblp.org/pers/t/Tiropanis:Thanassis	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Dmitry Tsarkov	http://dblp.org/pers/t/Tsarkov:Dmitry	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	Dmitry Tsarkov	http://dblp.org/pers/t/Tsarkov:Dmitry	1
+Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Dmitry Tsarkov	http://dblp.org/pers/t/Tsarkov:Dmitry	Riccardo Zese	http://dblp.org/pers/z/Zese:Riccardo	1
+Dmitry Tsarkov	http://dblp.org/pers/t/Tsarkov:Dmitry	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Albrecht Schmidt 	http://dblp.org/pers/s/Schmidt_0001:Albrecht	Enrico Rukzio	http://dblp.org/pers/r/Rukzio:Enrico	0
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Michael Sintek	http://dblp.org/pers/s/Sintek:Michael	0
+Carl Kesselman	http://dblp.org/pers/k/Kesselman:Carl	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	0
+John D. Nelson	http://dblp.org/pers/n/Nelson:John_D=	Peter Edwards	http://dblp.org/pers/e/Edwards:Peter	0
+Thomas Lukasiewicz	http://dblp.org/pers/l/Lukasiewicz:Thomas	Bettina Fazzinga	http://dblp.org/pers/f/Fazzinga:Bettina	0
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Alexander Maedche	http://dblp.org/pers/m/Maedche:Alexander	0
+Wolfgang Nejdl	http://dblp.org/pers/n/Nejdl:Wolfgang	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	0
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	0
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	0

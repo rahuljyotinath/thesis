@@ -1,0 +1,245 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Stasinos Konstantopoulos	http://dblp.org/pers/k/Konstantopoulos:Stasinos	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Stasinos Konstantopoulos	http://dblp.org/pers/k/Konstantopoulos:Stasinos	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Muhammad Fahad	http://dblp.org/pers/f/Fahad:Muhammad	1
+Stasinos Konstantopoulos	http://dblp.org/pers/k/Konstantopoulos:Stasinos	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Muhammad Fahad	http://dblp.org/pers/f/Fahad:Muhammad	Stasinos Konstantopoulos	http://dblp.org/pers/k/Konstantopoulos:Stasinos	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Muhammad Fahad	http://dblp.org/pers/f/Fahad:Muhammad	1
+Muhammad Fahad	http://dblp.org/pers/f/Fahad:Muhammad	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	1
+Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	1
+Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	1
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	1
+Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Daniel Gerber	http://dblp.org/pers/g/Gerber:Daniel	Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Matthew Rowe	http://dblp.org/pers/r/Rowe:Matthew	Brigitte Mathiak	http://dblp.org/pers/m/Mathiak:Brigitte	1
+Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	1
+Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	1
+Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Kunal Verma	http://dblp.org/pers/v/Verma:Kunal	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Alexandre Passant	http://dblp.org/pers/p/Passant:Alexandre	Kemafor Anyanwu	http://dblp.org/pers/a/Anyanwu:Kemafor	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	1
+Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	1
+Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	1
+Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	Pierre Genevès	http://dblp.org/pers/g/Genev=egrave=s:Pierre	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Oktie Hassanzadeh	http://dblp.org/pers/h/Hassanzadeh:Oktie	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Miguel A. Martínez-Prieto	http://dblp.org/pers/m/Mart=iacute=nez=Prieto:Miguel_A=	1
+Maurizio Tesconi	http://dblp.org/pers/t/Tesconi:Maurizio	Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	1
+Francisco M. Couto	http://dblp.org/pers/c/Couto:Francisco_M=	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	1
+Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Harald Sack	http://dblp.org/pers/s/Sack:Harald	Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	Harald Sack	http://dblp.org/pers/s/Sack:Harald	1
+Vassilis Tzouvaras	http://dblp.org/pers/t/Tzouvaras:Vassilis	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Olaf Hartig	http://dblp.org/pers/h/Hartig:Olaf	Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	1
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	1
+Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	0
+Marcel Karnstedt	http://dblp.org/pers/k/Karnstedt:Marcel	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Markus Luczak-Rösch	http://dblp.org/pers/l/Luczak=R=ouml=sch:Markus	Ralf Heese	http://dblp.org/pers/h/Heese:Ralf	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	0
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Dimitris Kontokostas	http://dblp.org/pers/k/Kontokostas:Dimitris	0
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	0
+Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	0
+Giorgos Flouris	http://dblp.org/pers/f/Flouris:Giorgos	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	0
+Shenghui Wang	http://dblp.org/pers/w/Wang:Shenghui	Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	0
+Laura Hollink	http://dblp.org/pers/h/Hollink:Laura	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	0
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	0
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Konstantin Todorov	http://dblp.org/pers/t/Todorov:Konstantin	0

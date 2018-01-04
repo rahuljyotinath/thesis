@@ -1,0 +1,337 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Payam M. Barnaghi	http://dblp.org/pers/b/Barnaghi:Payam_M=	1
+Jeff Heflin	http://dblp.org/pers/h/Heflin:Jeff	Payam M. Barnaghi	http://dblp.org/pers/b/Barnaghi:Payam_M=	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Jeff Heflin	http://dblp.org/pers/h/Heflin:Jeff	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Peter Mika	http://dblp.org/pers/m/Mika:Peter	1
+Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Peter Mika	http://dblp.org/pers/m/Mika:Peter	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Peter Mika	http://dblp.org/pers/m/Mika:Peter	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Peter Mika	http://dblp.org/pers/m/Mika:Peter	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	1
+Peter Mika	http://dblp.org/pers/m/Mika:Peter	Cory A. Henson	http://dblp.org/pers/h/Henson:Cory_A=	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Peter Mika	http://dblp.org/pers/m/Mika:Peter	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Paul Warren	http://dblp.org/pers/w/Warren:Paul	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Paul Warren	http://dblp.org/pers/w/Warren:Paul	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Paul Warren	http://dblp.org/pers/w/Warren:Paul	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Paul Warren	http://dblp.org/pers/w/Warren:Paul	Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Irene Celino	http://dblp.org/pers/c/Celino:Irene	1
+Kieron O'Hara	http://dblp.org/pers/o/O=Hara:Kieron	Paul Warren	http://dblp.org/pers/w/Warren:Paul	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Irene Celino	http://dblp.org/pers/c/Celino:Irene	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Milan Stankovic	http://dblp.org/pers/s/Stankovic:Milan	1
+Hugh Glaser	http://dblp.org/pers/g/Glaser:Hugh	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Harry Halpin	http://dblp.org/pers/h/Halpin:Harry	Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Thomas Steiner	http://dblp.org/pers/s/Steiner:Thomas	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Giovanni Tummarello	http://dblp.org/pers/t/Tummarello:Giovanni	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Jeen Broekstra	http://dblp.org/pers/b/Broekstra:Jeen	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Besnik Fetahu	http://dblp.org/pers/f/Fetahu:Besnik	Giovanni Grasso 	http://dblp.org/pers/g/Grasso_0001:Giovanni	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Nandana Mihindukulasooriya	http://dblp.org/pers/m/Mihindukulasooriya:Nandana	1
+Tim Berners-Lee	http://dblp.org/pers/b/Berners=Lee:Tim	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	1
+Ricardo Kawase	http://dblp.org/pers/k/Kawase:Ricardo	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	1
+Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	Giuseppe Rizzo 	http://dblp.org/pers/r/Rizzo_0002:Giuseppe	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	0
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	0
+José Manuél Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Jos=eacute=_Manu=eacute=l	Paul Warren	http://dblp.org/pers/w/Warren:Paul	0
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	0
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	0
+Tom De Nies	http://dblp.org/pers/n/Nies:Tom_De	Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	0
+Maribel Acosta	http://dblp.org/pers/a/Acosta:Maribel	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	0
+Miel Vander Sande	http://dblp.org/pers/s/Sande:Miel_Vander	Anastasia Dimou	http://dblp.org/pers/d/Dimou:Anastasia	0
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Michael Hausenblas	http://dblp.org/pers/h/Hausenblas:Michael	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0

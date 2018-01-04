@@ -1,0 +1,87 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Amit P. Sheth	http://dblp.org/pers/s/Sheth:Amit_P=	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+James J. Cimino	http://dblp.org/pers/c/Cimino:James_J=	François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	1
+Amit P. Sheth	http://dblp.org/pers/s/Sheth:Amit_P=	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+James J. Cimino	http://dblp.org/pers/c/Cimino:James_J=	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Amit P. Sheth	http://dblp.org/pers/s/Sheth:Amit_P=	James J. Cimino	http://dblp.org/pers/c/Cimino:James_J=	1
+Amit P. Sheth	http://dblp.org/pers/s/Sheth:Amit_P=	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+James J. Cimino	http://dblp.org/pers/c/Cimino:James_J=	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+François Scharffe	http://dblp.org/pers/s/Scharffe:Fran=ccedil=ois	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Heiner Stuckenschmidt	http://dblp.org/pers/s/Stuckenschmidt:Heiner	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Tobias Wunner	http://dblp.org/pers/w/Wunner:Tobias	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Marcelo Arenas	http://dblp.org/pers/a/Arenas:Marcelo	1
+Tobias Wunner	http://dblp.org/pers/w/Wunner:Tobias	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Tobias Wunner	http://dblp.org/pers/w/Wunner:Tobias	Marcelo Arenas	http://dblp.org/pers/a/Arenas:Marcelo	1
+Marcelo Arenas	http://dblp.org/pers/a/Arenas:Marcelo	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	Fabian Abel	http://dblp.org/pers/a/Abel:Fabian	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Fabian Abel	http://dblp.org/pers/a/Abel:Fabian	1
+Fabian Abel	http://dblp.org/pers/a/Abel:Fabian	Bernardo Cuenca Grau	http://dblp.org/pers/g/Grau:Bernardo_Cuenca	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Bernardo Cuenca Grau	http://dblp.org/pers/g/Grau:Bernardo_Cuenca	1
+Bernardo Cuenca Grau	http://dblp.org/pers/g/Grau:Bernardo_Cuenca	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Fabian Abel	http://dblp.org/pers/a/Abel:Fabian	1
+Bernardo Cuenca Grau	http://dblp.org/pers/g/Grau:Bernardo_Cuenca	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Nicholas Gibbins	http://dblp.org/pers/g/Gibbins:Nicholas	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Volker Tresp	http://dblp.org/pers/t/Tresp:Volker	1
+Volker Tresp	http://dblp.org/pers/t/Tresp:Volker	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Volker Tresp	http://dblp.org/pers/t/Tresp:Volker	1
+Femke Ongenae	http://dblp.org/pers/o/Ongenae:Femke	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Olivier Curé	http://dblp.org/pers/c/Cur=eacute=:Olivier	Thomas Eiter	http://dblp.org/pers/e/Eiter:Thomas	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Thomas Eiter	http://dblp.org/pers/e/Eiter:Thomas	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Olivier Curé	http://dblp.org/pers/c/Cur=eacute=:Olivier	1
+Thomas Eiter	http://dblp.org/pers/e/Eiter:Thomas	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	1
+Markus Krötzsch	http://dblp.org/pers/k/Kr=ouml=tzsch:Markus	Olivier Curé	http://dblp.org/pers/c/Cur=eacute=:Olivier	1
+Olivier Curé	http://dblp.org/pers/c/Cur=eacute=:Olivier	Femke Ongenae	http://dblp.org/pers/o/Ongenae:Femke	1
+Femke Ongenae	http://dblp.org/pers/o/Ongenae:Femke	Thomas Eiter	http://dblp.org/pers/e/Eiter:Thomas	1
+Femke Ongenae	http://dblp.org/pers/o/Ongenae:Femke	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	1
+Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	1
+Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Ruben Verborgh	http://dblp.org/pers/v/Verborgh:Ruben	1
+Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Ryutaro Ichise	http://dblp.org/pers/i/Ichise:Ryutaro	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Boris Motik	http://dblp.org/pers/m/Motik:Boris	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Boris Motik	http://dblp.org/pers/m/Motik:Boris	1
+Ryutaro Ichise	http://dblp.org/pers/i/Ichise:Ryutaro	Boris Motik	http://dblp.org/pers/m/Motik:Boris	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Ryutaro Ichise	http://dblp.org/pers/i/Ichise:Ryutaro	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Ryutaro Ichise	http://dblp.org/pers/i/Ichise:Ryutaro	1
+Boris Motik	http://dblp.org/pers/m/Motik:Boris	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Daniel Schwabe	http://dblp.org/pers/s/Schwabe:Daniel	Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	1
+Stefan Schlobach	http://dblp.org/pers/s/Schlobach:Stefan	Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	1
+Fabio Vitali	http://dblp.org/pers/v/Vitali:Fabio	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Stefan Schlobach	http://dblp.org/pers/s/Schlobach:Stefan	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Daniel Schwabe	http://dblp.org/pers/s/Schwabe:Daniel	Stefan Schlobach	http://dblp.org/pers/s/Schlobach:Stefan	1
+Daniel Schwabe	http://dblp.org/pers/s/Schwabe:Daniel	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	1
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Aditya Kalyanpur	http://dblp.org/pers/k/Kalyanpur:Aditya	Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	1
+Heiner Stuckenschmidt	http://dblp.org/pers/s/Stuckenschmidt:Heiner	Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	1
+Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	1
+Stefan Dietze	http://dblp.org/pers/d/Dietze:Stefan	Heiner Stuckenschmidt	http://dblp.org/pers/s/Stuckenschmidt:Heiner	1
+Riccardo Rosati	http://dblp.org/pers/r/Rosati:Riccardo	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Marta Sabou	http://dblp.org/pers/s/Sabou:Marta	Heiner Stuckenschmidt	http://dblp.org/pers/s/Stuckenschmidt:Heiner	0
+Heiner Stuckenschmidt	http://dblp.org/pers/s/Stuckenschmidt:Heiner	Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	0
+Julian Dolby	http://dblp.org/pers/d/Dolby:Julian	Kavitha Srinivas	http://dblp.org/pers/s/Srinivas:Kavitha	0
+Claudia d'Amato	http://dblp.org/pers/d/d=Amato:Claudia	Luciano Serafini	http://dblp.org/pers/s/Serafini:Luciano	0

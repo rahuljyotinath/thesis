@@ -1,0 +1,466 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	1
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	Pierpaolo Troiano	http://dblp.org/pers/t/Troiano:Pierpaolo	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	1
+Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	1
+Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Roberto Guarasci	http://dblp.org/pers/g/Guarasci:Roberto	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Christoph Lange 	http://dblp.org/pers/l/Lange_0002:Christoph	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	1
+Bingyi Zhang	http://dblp.org/pers/z/Zhang:Bingyi	Renata Queiroz Dividino	http://dblp.org/pers/d/Dividino:Renata_Queiroz	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Ana Estrada	http://dblp.org/pers/e/Estrada:Ana	1
+Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	1
+Seiji Suzuki	http://dblp.org/pers/s/Suzuki:Seiji	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Lyndon J. B. Nixon	http://dblp.org/pers/n/Nixon:Lyndon_J=_B=	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	1
+Yousra Chabchoub	http://dblp.org/pers/c/Chabchoub:Yousra	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	1
+Frederik C. Schadd	http://dblp.org/pers/s/Schadd:Frederik_C=	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	1
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Enrico Franconi	http://dblp.org/pers/f/Franconi:Enrico	1
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	1
+Carl-Martin Marquardt	http://dblp.org/pers/m/Marquardt:Carl=Martin	Ilaria Tiddi	http://dblp.org/pers/t/Tiddi:Ilaria	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Jacopo Urbani	http://dblp.org/pers/u/Urbani:Jacopo	Chris Lowis	http://dblp.org/pers/l/Lowis:Christopher	1
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	0
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	0
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	0
+Michael Zakharyaschev	http://dblp.org/pers/z/Zakharyaschev:Michael	Roman Kontchakov	http://dblp.org/pers/k/Kontchakov:Roman	0
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	0
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	0
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	0
+Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	0
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	0
+Grant McKenzie	http://dblp.org/pers/m/McKenzie:Grant	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	0
+Pascal Hitzler	http://dblp.org/pers/h/Hitzler:Pascal	Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	0
+Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	Gengchen Mai	http://dblp.org/pers/m/Mai:Gengchen	0
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	0
+Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	Dominique Ritze	http://dblp.org/pers/r/Ritze:Dominique	0
+Krzysztof Janowicz	http://dblp.org/pers/j/Janowicz:Krzysztof	Yingjie Hu	http://dblp.org/pers/h/Hu:Yingjie	0
+Marieke van Erp	http://dblp.org/pers/e/Erp:Marieke_van	Willem Robert van Hage	http://dblp.org/pers/h/Hage:Willem_Robert_van	0

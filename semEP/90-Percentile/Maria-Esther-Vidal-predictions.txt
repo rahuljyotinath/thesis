@@ -1,0 +1,46 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	1
+Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	1
+Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	1
+Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	1
+Manolis Koubarakis	http://dblp.org/pers/k/Koubarakis:Manolis	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	1
+Daniel P. Miranker	http://dblp.org/pers/m/Miranker:Daniel_P=	Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Louiqa Raschid	http://dblp.org/pers/r/Raschid:Louiqa	1
+Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	Louiqa Raschid	http://dblp.org/pers/r/Raschid:Louiqa	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	1
+Louiqa Raschid	http://dblp.org/pers/r/Raschid:Louiqa	José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	1
+Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	1
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Isabel F. Cruz	http://dblp.org/pers/c/Cruz:Isabel_F=	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	0
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Claudio Gutierrez	http://dblp.org/pers/g/Gutierrez:Claudio	0
+Michael Schmidt 	http://dblp.org/pers/s/Schmidt_0002:Michael	Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	0
+Dmitriy Zheleznyakov	http://dblp.org/pers/z/Zheleznyakov:Dmitriy	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	0
+Louiqa Raschid	http://dblp.org/pers/r/Raschid:Louiqa	Maria-Esther Vidal	http://dblp.org/pers/v/Vidal:Maria=Esther	0
+José Luis Ambite	http://dblp.org/pers/a/Ambite:Jos=eacute=_Luis	Craig A. Knoblock	http://dblp.org/pers/k/Knoblock:Craig_A=	0

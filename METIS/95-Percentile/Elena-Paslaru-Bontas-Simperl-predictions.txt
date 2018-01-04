@@ -1,0 +1,1038 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Edward Curry	http://dblp.org/pers/c/Curry:Edward	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	1
+Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	1
+Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	1
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	1
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	1
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	1
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Giuseppe Pirrò	http://dblp.org/pers/p/Pirr=ograve=:Giuseppe	1
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Enrico Motta	http://dblp.org/pers/m/Motta:Enrico	1
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	1
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Cui Tao	http://dblp.org/pers/t/Tao:Cui	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	Cui Tao	http://dblp.org/pers/t/Tao:Cui	1
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	1
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	1
+Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	1
+Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Cui Tao	http://dblp.org/pers/t/Tao:Cui	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	1
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	1
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	Cui Tao	http://dblp.org/pers/t/Tao:Cui	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	1
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Harith Alani	http://dblp.org/pers/a/Alani:Harith	1
+Cui Tao	http://dblp.org/pers/t/Tao:Cui	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	1
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	1
+Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	1
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	1
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	1
+Harith Alani	http://dblp.org/pers/a/Alani:Harith	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	1
+Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	1
+Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	Michiel Hildebrand	http://dblp.org/pers/h/Hildebrand:Michiel	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	1
+Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	Stephan Grimm	http://dblp.org/pers/g/Grimm:Stephan	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	1
+Samson W. Tu	http://dblp.org/pers/t/Tu:Samson_W=	Pavel Shvaiko	http://dblp.org/pers/s/Shvaiko:Pavel	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Alan L. Rector	http://dblp.org/pers/r/Rector:Alan_L=	1
+Johanna Völker	http://dblp.org/pers/v/V=ouml=lker:Johanna	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Pavel Klinov	http://dblp.org/pers/k/Klinov:Pavel	Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	Fausto Giunchiglia	http://dblp.org/pers/g/Giunchiglia:Fausto	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	1
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Berker Agir	http://dblp.org/pers/a/Agir:Berker	Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Berker Agir	http://dblp.org/pers/a/Agir:Berker	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	1
+Chiara Di Francescomarino	http://dblp.org/pers/f/Francescomarino:Chiara_Di	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Francisco Martín-Recuerda	http://dblp.org/pers/m/Mart=iacute=n=Recuerda:Francisco	Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	1
+Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Olaf Görlitz	http://dblp.org/pers/g/G=ouml=rlitz:Olaf	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	1
+Philipp Cimiano	http://dblp.org/pers/c/Cimiano:Philipp	Jennifer Sleeman	http://dblp.org/pers/s/Sleeman:Jennifer	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Julien Cojan	http://dblp.org/pers/c/Cojan:Julien	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	1
+José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	José Luis Redondo García	http://dblp.org/pers/g/Garc=iacute=a:Jos=eacute=_Luis_Redondo	1
+Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Carlos Pedrinaci	http://dblp.org/pers/p/Pedrinaci:Carlos	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	1
+Hiroaki Morikawa	http://dblp.org/pers/m/Morikawa:Hiroaki	Adrián Soto	http://dblp.org/pers/s/Soto:Adri=aacute=n	1
+Jorge Gracia	http://dblp.org/pers/g/Gracia:Jorge	Piero A. Bonatti	http://dblp.org/pers/b/Bonatti:Piero_A=	1
+Anthony Potter	http://dblp.org/pers/p/Potter:Anthony	Khai Nguyen	http://dblp.org/pers/n/Nguyen:Khai	1
+Sven Hertling	http://dblp.org/pers/h/Hertling:Sven	Karima Boudaoud	http://dblp.org/pers/b/Boudaoud:Karima	1
+Alifah Syamsiyah	http://dblp.org/pers/s/Syamsiyah:Alifah	Dimitrianos Savva	http://dblp.org/pers/s/Savva:Dimitrianos	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Davide Romito	http://dblp.org/pers/r/Romito:Davide	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Davide Romito	http://dblp.org/pers/r/Romito:Davide	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Jan Michelfeit	http://dblp.org/pers/m/Michelfeit:Jan	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	1
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	1
+Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	1
+Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Juan-Zi Li	http://dblp.org/pers/l/Li:Juan=Zi	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Peter Wiebe	http://dblp.org/pers/w/Wiebe:Peter	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	1
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	1
+Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	Rik Hoekstra	http://dblp.org/pers/h/Hoekstra:Rik	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Olga Zhibrik	http://dblp.org/pers/z/Zhibrik:Olga	1
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Fedelucio Narducci	http://dblp.org/pers/n/Narducci:Fedelucio	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Orri Erling	http://dblp.org/pers/e/Erling:Orri	1
+Asunción Gómez-Pérez	http://dblp.org/pers/g/G=oacute=mez=P=eacute=rez:Asunci=oacute=n	Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	1
+Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	1
+Orri Erling	http://dblp.org/pers/e/Erling:Orri	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Haofen Wang	http://dblp.org/pers/w/Wang:Haofen	1
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Katerina Papaioannou	http://dblp.org/pers/p/Papaioannou:Katerina	1
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Jean Karl Soler	http://dblp.org/pers/s/Soler:Jean_Karl	1
+Eva Blomqvist	http://dblp.org/pers/b/Blomqvist:Eva	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	0
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	0
+Frank van Harmelen	http://dblp.org/pers/h/Harmelen:Frank_van	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	0
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	0
+Olivier Corby	http://dblp.org/pers/c/Corby:Olivier	Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	0
+Edward Curry	http://dblp.org/pers/c/Curry:Edward	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	0
+Denny Vrandecic	http://dblp.org/pers/v/Vrandecic:Denny	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
+Fabien L. Gandon	http://dblp.org/pers/g/Gandon:Fabien	Catherine Faron-Zucker	http://dblp.org/pers/f/Faron=Zucker:Catherine	0
+Seán O'Riain	http://dblp.org/pers/o/O=Riain:Se=aacute=n	Edward Curry	http://dblp.org/pers/c/Curry:Edward	0
+Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	0
+Lora Aroyo	http://dblp.org/pers/a/Aroyo:Lora	Geert-Jan Houben	http://dblp.org/pers/h/Houben:Geert=Jan	0
+Stefan Decker	http://dblp.org/pers/d/Decker:Stefan	Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	0
+Siegfried Handschuh	http://dblp.org/pers/h/Handschuh:Siegfried	Steffen Staab	http://dblp.org/pers/s/Staab:Steffen	0
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Evgeny Kharlamov	http://dblp.org/pers/k/Kharlamov:Evgeny	0
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	0
+David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	0
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	0
+Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	0
+Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	0
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	0
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	0
+Ravi D. Shankar	http://dblp.org/pers/s/Shankar:Ravi_D=	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	0
+David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	0
+Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	Amar K. Das	http://dblp.org/pers/d/Das:Amar_K=	0
+Dario Cerizza	http://dblp.org/pers/c/Cerizza:Dario	Andrea Turati	http://dblp.org/pers/t/Turati:Andrea	0
+Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	David B. Parrish	http://dblp.org/pers/p/Parrish:David_B=	0
+Susana B. Martins	http://dblp.org/pers/m/Martins:Susana_B=	Martin J. O'Connor	http://dblp.org/pers/o/O=Connor:Martin_J=	0
+Gong Cheng	http://dblp.org/pers/c/Cheng:Gong	Yuzhong Qu	http://dblp.org/pers/q/Qu:Yuzhong	0
+Kouji Kozaki	http://dblp.org/pers/k/Kozaki:Kouji	Norio Kobayashi	http://dblp.org/pers/k/Kobayashi:Norio	0
+Abraham Bernstein	http://dblp.org/pers/b/Bernstein:Abraham	Nicola Fanizzi	http://dblp.org/pers/f/Fanizzi:Nicola	0
+Paulo Pinheiro	http://dblp.org/pers/s/Silva:Paulo_Pinheiro_da	Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	0
+Jan Wielemaker	http://dblp.org/pers/w/Wielemaker:Jan	Guus Schreiber	http://dblp.org/pers/s/Schreiber:Guus	0
+Roberto Mirizzi	http://dblp.org/pers/m/Mirizzi:Roberto	Davide Romito	http://dblp.org/pers/r/Romito:Davide	0
+Ondrej Sváb-Zamazal	http://dblp.org/pers/z/Zamazal:Ondrej	Cássia Trojahn dos Santos	http://dblp.org/pers/s/Santos:C=aacute=ssia_Trojahn_dos	0
+Hugh Williams	http://dblp.org/pers/w/Williams:Hugh	Orri Erling	http://dblp.org/pers/e/Erling:Orri	0
+Natalya Fridman Noy	http://dblp.org/pers/n/Noy:Natalya_Fridman	Elena Paslaru Bontas Simperl	http://dblp.org/pers/s/Simperl:Elena	0
+Andrea Mauri 	http://dblp.org/pers/m/Mauri_0001:Andrea	Daniele Dell'Aglio	http://dblp.org/pers/d/Dell=Aglio:Daniele	0
+Deborah L. McGuinness	http://dblp.org/pers/m/McGuinness:Deborah_L=	Alvaro Graves	http://dblp.org/pers/g/Graves:Alvaro	0

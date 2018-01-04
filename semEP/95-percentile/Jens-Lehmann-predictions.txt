@@ -1,0 +1,66 @@
+Author-1	Author-1-link	Author-2	Author-2-link	Prediction
+Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	1
+Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Christian Meilicke	http://dblp.org/pers/m/Meilicke:Christian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	1
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	1
+Peter Haase 	http://dblp.org/pers/h/Haase_0001:Peter	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	1
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Raphaël Troncy	http://dblp.org/pers/t/Troncy:Rapha=euml=l	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	1
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	1
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	1
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Emanuele Della Valle	http://dblp.org/pers/v/Valle:Emanuele_Della	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	1
+Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	1
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Axel Polleres	http://dblp.org/pers/p/Polleres:Axel	1
+Axel-Cyrille Ngonga Ngomo	http://dblp.org/pers/n/Ngomo:Axel=Cyrille_Ngonga	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Sebastian Hellmann	http://dblp.org/pers/h/Hellmann:Sebastian	0
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	0
+Boris Villaz=oacute=n=Terrazas	http://dblp.org/pers/v/Villaz=oacute=n=Terrazas:Boris	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Aidan Hogan	http://dblp.org/pers/h/Hogan:Aidan	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Jürgen Umbrich	http://dblp.org/pers/u/Umbrich:J=uuml=rgen	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Andreas Harth	http://dblp.org/pers/h/Harth:Andreas	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Heiko Paulheim	http://dblp.org/pers/p/Paulheim:Heiko	0
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	0
+Valentina Presutti	http://dblp.org/pers/p/Presutti:Valentina	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	0
+Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	0
+Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	Silvio Peroni	http://dblp.org/pers/p/Peroni:Silvio	0
+Aldo Gangemi	http://dblp.org/pers/g/Gangemi:Aldo	Mathieu d'Aquin	http://dblp.org/pers/d/d=Aquin:Mathieu	0
+Christian Bizer	http://dblp.org/pers/b/Bizer:Christian	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	0
+Jens Lehmann	http://dblp.org/pers/l/Lehmann:Jens	Sören Auer	http://dblp.org/pers/a/Auer:S=ouml=ren	0
