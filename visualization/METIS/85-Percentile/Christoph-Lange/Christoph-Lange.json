@@ -1,0 +1,233 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A1438752",
+"selected":false,
+"cytoscape_alias_list":["Christoph Lange"],
+"canonicalName": "Christoph Lange",
+"SUID":2,
+"NodeType": "RedWine",
+"name": "Christoph Lange",
+"shared_name": "Christoph Lange"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2015752",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2015"],
+"canonicalName": "ISWC-2015",
+"SUID":3,
+"NodeType": "WhiteWine",
+"name": "ISWC-2015",
+"shared_name": "ISWC-2015"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1499752",
+"selected":false,
+"cytoscape_alias_list":["Ansgar Scherp"],
+"canonicalName": "Ansgar Scherp",
+"SUID":4,
+"NodeType": "RedWine",
+"name": "Ansgar Scherp",
+"shared_name": "Ansgar Scherp"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1500752",
+"selected":false,
+"cytoscape_alias_list":["Thomas Gottron"],
+"canonicalName": "Thomas Gottron",
+"SUID":5,
+"NodeType": "RedWine",
+"name": "Thomas Gottron",
+"shared_name": "Thomas Gottron"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1745752",
+"selected":false,
+"cytoscape_alias_list":["Conor Hayes"],
+"canonicalName": "Conor Hayes",
+"SUID":6,
+"NodeType": "RedWine",
+"name": "Conor Hayes",
+"shared_name": "Conor Hayes"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1794752",
+"selected":false,
+"cytoscape_alias_list":["Hala Skaf-Molli"],
+"canonicalName": "Hala Skaf-Molli",
+"SUID":7,
+"NodeType": "RedWine",
+"name": "Hala Skaf-Molli",
+"shared_name": "Hala Skaf-Molli"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1200
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A2435752",
+"selected":false,
+"cytoscape_alias_list":["Angelo Di Iorio"],
+"canonicalName": "Angelo Di Iorio",
+"SUID":8,
+"NodeType": "RedWine",
+"name": "Angelo Di Iorio",
+"shared_name": "Angelo Di Iorio"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1250
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A1438752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A1438752 (cc) C2015752",
+"SUID" : 1,
+"name" : "A1438752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1438752 (cc) C2015752"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A1499752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A1499752 (cc) C2015752",
+"SUID" : 2,
+"name" : "A1499752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1499752 (cc) C2015752"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "3",
+"source" : "A1500752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A1500752 (cc) C2015752",
+"SUID" : 3,
+"name" : "A1500752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1500752 (cc) C2015752"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "4",
+"source" : "A1745752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A1745752 (cc) C2015752",
+"SUID" : 4,
+"name" : "A1745752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1745752 (cc) C2015752"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "5",
+"source" : "A1794752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A1794752 (cc) C2015752",
+"SUID" : 5,
+"name" : "A1794752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1794752 (cc) C2015752"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "6",
+"source" : "A2435752",
+"target" : "C2015752",
+"selected" : false,
+"canonicalName" : "A2435752 (cc) C2015752",
+"SUID" : 6,
+"name" : "A2435752 (cc) C2015752",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A2435752 (cc) C2015752"
+},
+"selected" : false
+}
+
+]
+}
+}

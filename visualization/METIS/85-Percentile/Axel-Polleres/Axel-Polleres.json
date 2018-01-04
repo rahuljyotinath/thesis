@@ -1,0 +1,2171 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A25362",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":1,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2014362",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2014"],
+"canonicalName": "ISWC-2014",
+"SUID":2,
+"NodeType": "WhiteWine",
+"name": "ISWC-2014",
+"shared_name": "ISWC-2014"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A39362",
+"selected":false,
+"cytoscape_alias_list":["Thanh Tran"],
+"canonicalName": "Thanh Tran",
+"SUID":3,
+"NodeType": "RedWine",
+"name": "Thanh Tran",
+"shared_name": "Thanh Tran"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A253362",
+"selected":false,
+"cytoscape_alias_list":["Silvio Peroni"],
+"canonicalName": "Silvio Peroni",
+"SUID":4,
+"NodeType": "RedWine",
+"name": "Silvio Peroni",
+"shared_name": "Silvio Peroni"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1268362",
+"selected":false,
+"cytoscape_alias_list":["Domenico Lembo"],
+"canonicalName": "Domenico Lembo",
+"SUID":5,
+"NodeType": "RedWine",
+"name": "Domenico Lembo",
+"shared_name": "Domenico Lembo"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1357362",
+"selected":false,
+"cytoscape_alias_list":["Matteo Palmonari"],
+"canonicalName": "Matteo Palmonari",
+"SUID":6,
+"NodeType": "RedWine",
+"name": "Matteo Palmonari",
+"shared_name": "Matteo Palmonari"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1200
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1487362",
+"selected":false,
+"cytoscape_alias_list":["Anastasia Dimou"],
+"canonicalName": "Anastasia Dimou",
+"SUID":7,
+"NodeType": "RedWine",
+"name": "Anastasia Dimou",
+"shared_name": "Anastasia Dimou"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1250
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25549",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":9,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1350
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2013549",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2013"],
+"canonicalName": "ISWC-2013",
+"SUID":10,
+"NodeType": "WhiteWine",
+"name": "ISWC-2013",
+"shared_name": "ISWC-2013"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1350
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A94549",
+"selected":false,
+"cytoscape_alias_list":["Raphaël Troncy"],
+"canonicalName": "Raphaël Troncy",
+"SUID":11,
+"NodeType": "RedWine",
+"name": "Raphaël Troncy",
+"shared_name": "Raphaël Troncy"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1400
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A254549",
+"selected":false,
+"cytoscape_alias_list":["Jeff Z. Pan"],
+"canonicalName": "Jeff Z. Pan",
+"SUID":12,
+"NodeType": "RedWine",
+"name": "Jeff Z. Pan",
+"shared_name": "Jeff Z. Pan"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1450
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1016549",
+"selected":false,
+"cytoscape_alias_list":["Ryutaro Ichise"],
+"canonicalName": "Ryutaro Ichise",
+"SUID":13,
+"NodeType": "RedWine",
+"name": "Ryutaro Ichise",
+"shared_name": "Ryutaro Ichise"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1500
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A2538549",
+"selected":false,
+"cytoscape_alias_list":["Yuki Hayashi"],
+"canonicalName": "Yuki Hayashi",
+"SUID":14,
+"NodeType": "RedWine",
+"name": "Yuki Hayashi",
+"shared_name": "Yuki Hayashi"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1550
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2016549",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2016"],
+"canonicalName": "ISWC-2016",
+"SUID":15,
+"NodeType": "WhiteWine",
+"name": "ISWC-2016",
+"shared_name": "ISWC-2016"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1600.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A2539549",
+"selected":false,
+"cytoscape_alias_list":["Kazuhisa Seta"],
+"canonicalName": "Kazuhisa Seta",
+"SUID":16,
+"NodeType": "RedWine",
+"name": "Kazuhisa Seta",
+"shared_name": "Kazuhisa Seta"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1600
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25235",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":18,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1700
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2010235",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2010"],
+"canonicalName": "ISWC-2010",
+"SUID":19,
+"NodeType": "WhiteWine",
+"name": "ISWC-2010",
+"shared_name": "ISWC-2010"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1700
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A213235",
+"selected":false,
+"cytoscape_alias_list":["Diego Calvanese"],
+"canonicalName": "Diego Calvanese",
+"SUID":20,
+"NodeType": "RedWine",
+"name": "Diego Calvanese",
+"shared_name": "Diego Calvanese"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1750
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A254235",
+"selected":false,
+"cytoscape_alias_list":["Jeff Z. Pan"],
+"canonicalName": "Jeff Z. Pan",
+"SUID":21,
+"NodeType": "RedWine",
+"name": "Jeff Z. Pan",
+"shared_name": "Jeff Z. Pan"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1800
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1041235",
+"selected":false,
+"cytoscape_alias_list":["Pascal Hitzler"],
+"canonicalName": "Pascal Hitzler",
+"SUID":22,
+"NodeType": "RedWine",
+"name": "Pascal Hitzler",
+"shared_name": "Pascal Hitzler"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1850
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1698235",
+"selected":false,
+"cytoscape_alias_list":["Mark A. Musen"],
+"canonicalName": "Mark A. Musen",
+"SUID":23,
+"NodeType": "RedWine",
+"name": "Mark A. Musen",
+"shared_name": "Mark A. Musen"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1900
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4249235",
+"selected":false,
+"cytoscape_alias_list":["Nenad Stojanovic"],
+"canonicalName": "Nenad Stojanovic",
+"SUID":24,
+"NodeType": "RedWine",
+"name": "Nenad Stojanovic",
+"shared_name": "Nenad Stojanovic"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1950
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25782",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":26,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2050
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2009782",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2009"],
+"canonicalName": "ISWC-2009",
+"SUID":27,
+"NodeType": "WhiteWine",
+"name": "ISWC-2009",
+"shared_name": "ISWC-2009"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 2050
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A329782",
+"selected":false,
+"cytoscape_alias_list":["Grigoris Antoniou"],
+"canonicalName": "Grigoris Antoniou",
+"SUID":28,
+"NodeType": "RedWine",
+"name": "Grigoris Antoniou",
+"shared_name": "Grigoris Antoniou"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A489782",
+"selected":false,
+"cytoscape_alias_list":["Rafael Peñaloza"],
+"canonicalName": "Rafael Peñaloza",
+"SUID":29,
+"NodeType": "RedWine",
+"name": "Rafael Peñaloza",
+"shared_name": "Rafael Peñaloza"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A608782",
+"selected":false,
+"cytoscape_alias_list":["Stefan Schlobach"],
+"canonicalName": "Stefan Schlobach",
+"SUID":30,
+"NodeType": "RedWine",
+"name": "Stefan Schlobach",
+"shared_name": "Stefan Schlobach"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2200
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A985782",
+"selected":false,
+"cytoscape_alias_list":["Thomas Lukasiewicz"],
+"canonicalName": "Thomas Lukasiewicz",
+"SUID":31,
+"NodeType": "RedWine",
+"name": "Thomas Lukasiewicz",
+"shared_name": "Thomas Lukasiewicz"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2250
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4129782",
+"selected":false,
+"cytoscape_alias_list":["Kewen Wang"],
+"canonicalName": "Kewen Wang",
+"SUID":32,
+"NodeType": "RedWine",
+"name": "Kewen Wang",
+"shared_name": "Kewen Wang"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2300
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A251261",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":34,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2400
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20111261",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2011"],
+"canonicalName": "ISWC-2011",
+"SUID":35,
+"NodeType": "WhiteWine",
+"name": "ISWC-2011",
+"shared_name": "ISWC-2011"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 2400
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4261261",
+"selected":false,
+"cytoscape_alias_list":["Chiara Ghidini"],
+"canonicalName": "Chiara Ghidini",
+"SUID":36,
+"NodeType": "RedWine",
+"name": "Chiara Ghidini",
+"shared_name": "Chiara Ghidini"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2450
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4271261",
+"selected":false,
+"cytoscape_alias_list":["Luciano Serafini"],
+"canonicalName": "Luciano Serafini",
+"SUID":37,
+"NodeType": "RedWine",
+"name": "Luciano Serafini",
+"shared_name": "Luciano Serafini"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2500
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A11311261",
+"selected":false,
+"cytoscape_alias_list":["Boris Motik"],
+"canonicalName": "Boris Motik",
+"SUID":38,
+"NodeType": "RedWine",
+"name": "Boris Motik",
+"shared_name": "Boris Motik"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2550
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A15671261",
+"selected":false,
+"cytoscape_alias_list":["Guilin Qi"],
+"canonicalName": "Guilin Qi",
+"SUID":39,
+"NodeType": "RedWine",
+"name": "Guilin Qi",
+"shared_name": "Guilin Qi"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2600
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A41291261",
+"selected":false,
+"cytoscape_alias_list":["Kewen Wang"],
+"canonicalName": "Kewen Wang",
+"SUID":40,
+"NodeType": "RedWine",
+"name": "Kewen Wang",
+"shared_name": "Kewen Wang"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2650
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25788",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":42,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2750
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2015788",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2015"],
+"canonicalName": "ISWC-2015",
+"SUID":43,
+"NodeType": "WhiteWine",
+"name": "ISWC-2015",
+"shared_name": "ISWC-2015"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 2750
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A121788",
+"selected":false,
+"cytoscape_alias_list":["Cássia Trojahn dos Santos"],
+"canonicalName": "Cássia Trojahn dos Santos",
+"SUID":44,
+"NodeType": "RedWine",
+"name": "Cássia Trojahn dos Santos",
+"shared_name": "Cássia Trojahn dos Santos"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2800
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A803788",
+"selected":false,
+"cytoscape_alias_list":["Luigi Sauro"],
+"canonicalName": "Luigi Sauro",
+"SUID":45,
+"NodeType": "RedWine",
+"name": "Luigi Sauro",
+"shared_name": "Luigi Sauro"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2850
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A992788",
+"selected":false,
+"cytoscape_alias_list":["Evgeny Kharlamov"],
+"canonicalName": "Evgeny Kharlamov",
+"SUID":46,
+"NodeType": "RedWine",
+"name": "Evgeny Kharlamov",
+"shared_name": "Evgeny Kharlamov"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2900
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1270788",
+"selected":false,
+"cytoscape_alias_list":["Domenico Fabio Savo"],
+"canonicalName": "Domenico Fabio Savo",
+"SUID":47,
+"NodeType": "RedWine",
+"name": "Domenico Fabio Savo",
+"shared_name": "Domenico Fabio Savo"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 2950
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1528788",
+"selected":false,
+"cytoscape_alias_list":["Mariano Rodriguez-Muro"],
+"canonicalName": "Mariano Rodriguez-Muro",
+"SUID":48,
+"NodeType": "RedWine",
+"name": "Mariano Rodriguez-Muro",
+"shared_name": "Mariano Rodriguez-Muro"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3000
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A251186",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":50,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20041186",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2004"],
+"canonicalName": "ISWC-2004",
+"SUID":51,
+"NodeType": "WhiteWine",
+"name": "ISWC-2004",
+"shared_name": "ISWC-2004"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 3100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A671186",
+"selected":false,
+"cytoscape_alias_list":["Daniel Olmedilla"],
+"canonicalName": "Daniel Olmedilla",
+"SUID":52,
+"NodeType": "RedWine",
+"name": "Daniel Olmedilla",
+"shared_name": "Daniel Olmedilla"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A7501186",
+"selected":false,
+"cytoscape_alias_list":["York Sure-Vetter"],
+"canonicalName": "York Sure-Vetter",
+"SUID":53,
+"NodeType": "RedWine",
+"name": "York Sure-Vetter",
+"shared_name": "York Sure-Vetter"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3200
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A20011186",
+"selected":false,
+"cytoscape_alias_list":["Thorsten Liebig"],
+"canonicalName": "Thorsten Liebig",
+"SUID":54,
+"NodeType": "RedWine",
+"name": "Thorsten Liebig",
+"shared_name": "Thorsten Liebig"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3250
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A25891186",
+"selected":false,
+"cytoscape_alias_list":["Dennis Quan"],
+"canonicalName": "Dennis Quan",
+"SUID":55,
+"NodeType": "RedWine",
+"name": "Dennis Quan",
+"shared_name": "Dennis Quan"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3300
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A33101186",
+"selected":false,
+"cytoscape_alias_list":["Wolf Siberski"],
+"canonicalName": "Wolf Siberski",
+"SUID":56,
+"NodeType": "RedWine",
+"name": "Wolf Siberski",
+"shared_name": "Wolf Siberski"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3350
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A23338",
+"selected":false,
+"cytoscape_alias_list":["Nicola Fanizzi"],
+"canonicalName": "Nicola Fanizzi",
+"SUID":58,
+"NodeType": "RedWine",
+"name": "Nicola Fanizzi",
+"shared_name": "Nicola Fanizzi"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3450
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2007338",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2007"],
+"canonicalName": "ISWC-2007",
+"SUID":59,
+"NodeType": "WhiteWine",
+"name": "ISWC-2007",
+"shared_name": "ISWC-2007"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 3450
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A25338",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":60,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3500
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A762338",
+"selected":false,
+"cytoscape_alias_list":["Fernando Bobillo"],
+"canonicalName": "Fernando Bobillo",
+"SUID":61,
+"NodeType": "RedWine",
+"name": "Fernando Bobillo",
+"shared_name": "Fernando Bobillo"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3550
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1567338",
+"selected":false,
+"cytoscape_alias_list":["Guilin Qi"],
+"canonicalName": "Guilin Qi",
+"SUID":62,
+"NodeType": "RedWine",
+"name": "Guilin Qi",
+"shared_name": "Guilin Qi"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3600
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1747338",
+"selected":false,
+"cytoscape_alias_list":["Alberto Fernández"],
+"canonicalName": "Alberto Fernández",
+"SUID":63,
+"NodeType": "RedWine",
+"name": "Alberto Fernández",
+"shared_name": "Alberto Fernández"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3650
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2008338",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2008"],
+"canonicalName": "ISWC-2008",
+"SUID":64,
+"NodeType": "WhiteWine",
+"name": "ISWC-2008",
+"shared_name": "ISWC-2008"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 3700.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3083338",
+"selected":false,
+"cytoscape_alias_list":["Eugenio Di Sciascio"],
+"canonicalName": "Eugenio Di Sciascio",
+"SUID":65,
+"NodeType": "RedWine",
+"name": "Eugenio Di Sciascio",
+"shared_name": "Eugenio Di Sciascio"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3700
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25196",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":67,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3800
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2008196",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2008"],
+"canonicalName": "ISWC-2008",
+"SUID":68,
+"NodeType": "WhiteWine",
+"name": "ISWC-2008",
+"shared_name": "ISWC-2008"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 3800
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A139196",
+"selected":false,
+"cytoscape_alias_list":["Jens Lehmann"],
+"canonicalName": "Jens Lehmann",
+"SUID":69,
+"NodeType": "RedWine",
+"name": "Jens Lehmann",
+"shared_name": "Jens Lehmann"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3850
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A680196",
+"selected":false,
+"cytoscape_alias_list":["Andreas Hotho"],
+"canonicalName": "Andreas Hotho",
+"SUID":70,
+"NodeType": "RedWine",
+"name": "Andreas Hotho",
+"shared_name": "Andreas Hotho"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3900
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A681196",
+"selected":false,
+"cytoscape_alias_list":["Gerd Stumme"],
+"canonicalName": "Gerd Stumme",
+"SUID":71,
+"NodeType": "RedWine",
+"name": "Gerd Stumme",
+"shared_name": "Gerd Stumme"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 3950
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1041196",
+"selected":false,
+"cytoscape_alias_list":["Pascal Hitzler"],
+"canonicalName": "Pascal Hitzler",
+"SUID":72,
+"NodeType": "RedWine",
+"name": "Pascal Hitzler",
+"shared_name": "Pascal Hitzler"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3877196",
+"selected":false,
+"cytoscape_alias_list":["Michael Kifer"],
+"canonicalName": "Michael Kifer",
+"SUID":73,
+"NodeType": "RedWine",
+"name": "Michael Kifer",
+"shared_name": "Michael Kifer"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4050
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A25603",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":76,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2016603",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2016"],
+"canonicalName": "ISWC-2016",
+"SUID":77,
+"NodeType": "WhiteWine",
+"name": "ISWC-2016",
+"shared_name": "ISWC-2016"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 4150
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A40603",
+"selected":false,
+"cytoscape_alias_list":["Achim Rettinger"],
+"canonicalName": "Achim Rettinger",
+"SUID":78,
+"NodeType": "RedWine",
+"name": "Achim Rettinger",
+"shared_name": "Achim Rettinger"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4200
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A136603",
+"selected":false,
+"cytoscape_alias_list":["Sören Auer"],
+"canonicalName": "Sören Auer",
+"SUID":79,
+"NodeType": "RedWine",
+"name": "Sören Auer",
+"shared_name": "Sören Auer"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4250
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A1940603",
+"selected":false,
+"cytoscape_alias_list":["Ganesh Ramakrishnan"],
+"canonicalName": "Ganesh Ramakrishnan",
+"SUID":80,
+"NodeType": "RedWine",
+"name": "Ganesh Ramakrishnan",
+"shared_name": "Ganesh Ramakrishnan"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4300
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A2939603",
+"selected":false,
+"cytoscape_alias_list":["Freddy Lécué"],
+"canonicalName": "Freddy Lécué",
+"SUID":81,
+"NodeType": "RedWine",
+"name": "Freddy Lécué",
+"shared_name": "Freddy Lécué"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 4350
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A25362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A25362 (cc) C2014362",
+"SUID" : 1,
+"name" : "A25362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A39362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A39362 (cc) C2014362",
+"SUID" : 2,
+"name" : "A39362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A39362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "3",
+"source" : "A253362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A253362 (cc) C2014362",
+"SUID" : 3,
+"name" : "A253362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A253362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "4",
+"source" : "A1268362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A1268362 (cc) C2014362",
+"SUID" : 4,
+"name" : "A1268362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1268362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "5",
+"source" : "A1357362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A1357362 (cc) C2014362",
+"SUID" : 5,
+"name" : "A1357362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1357362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "6",
+"source" : "A1487362",
+"target" : "C2014362",
+"selected" : false,
+"canonicalName" : "A1487362 (cc) C2014362",
+"SUID" : 6,
+"name" : "A1487362 (cc) C2014362",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1487362 (cc) C2014362"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "7",
+"source" : "A25549",
+"target" : "C2013549",
+"selected" : false,
+"canonicalName" : "A25549 (cc) C2013549",
+"SUID" : 7,
+"name" : "A25549 (cc) C2013549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25549 (cc) C2013549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "8",
+"source" : "A94549",
+"target" : "C2013549",
+"selected" : false,
+"canonicalName" : "A94549 (cc) C2013549",
+"SUID" : 8,
+"name" : "A94549 (cc) C2013549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A94549 (cc) C2013549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "9",
+"source" : "A254549",
+"target" : "C2013549",
+"selected" : false,
+"canonicalName" : "A254549 (cc) C2013549",
+"SUID" : 9,
+"name" : "A254549 (cc) C2013549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A254549 (cc) C2013549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "10",
+"source" : "A1016549",
+"target" : "C2013549",
+"selected" : false,
+"canonicalName" : "A1016549 (cc) C2013549",
+"SUID" : 10,
+"name" : "A1016549 (cc) C2013549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1016549 (cc) C2013549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "11",
+"source" : "A2538549",
+"target" : "C2016549",
+"selected" : false,
+"canonicalName" : "A2538549 (cc) C2016549",
+"SUID" : 11,
+"name" : "A2538549 (cc) C2016549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A2538549 (cc) C2016549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "12",
+"source" : "A2539549",
+"target" : "C2016549",
+"selected" : false,
+"canonicalName" : "A2539549 (cc) C2016549",
+"SUID" : 12,
+"name" : "A2539549 (cc) C2016549",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A2539549 (cc) C2016549"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "13",
+"source" : "A25235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A25235 (cc) C2010235",
+"SUID" : 13,
+"name" : "A25235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "14",
+"source" : "A213235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A213235 (cc) C2010235",
+"SUID" : 14,
+"name" : "A213235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A213235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "15",
+"source" : "A254235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A254235 (cc) C2010235",
+"SUID" : 15,
+"name" : "A254235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A254235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "16",
+"source" : "A1041235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A1041235 (cc) C2010235",
+"SUID" : 16,
+"name" : "A1041235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1041235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "17",
+"source" : "A1698235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A1698235 (cc) C2010235",
+"SUID" : 17,
+"name" : "A1698235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1698235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "18",
+"source" : "A4249235",
+"target" : "C2010235",
+"selected" : false,
+"canonicalName" : "A4249235 (cc) C2010235",
+"SUID" : 18,
+"name" : "A4249235 (cc) C2010235",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4249235 (cc) C2010235"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "19",
+"source" : "A25782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A25782 (cc) C2009782",
+"SUID" : 19,
+"name" : "A25782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "20",
+"source" : "A329782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A329782 (cc) C2009782",
+"SUID" : 20,
+"name" : "A329782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A329782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "21",
+"source" : "A489782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A489782 (cc) C2009782",
+"SUID" : 21,
+"name" : "A489782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A489782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "22",
+"source" : "A608782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A608782 (cc) C2009782",
+"SUID" : 22,
+"name" : "A608782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A608782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "23",
+"source" : "A985782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A985782 (cc) C2009782",
+"SUID" : 23,
+"name" : "A985782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A985782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "24",
+"source" : "A4129782",
+"target" : "C2009782",
+"selected" : false,
+"canonicalName" : "A4129782 (cc) C2009782",
+"SUID" : 24,
+"name" : "A4129782 (cc) C2009782",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4129782 (cc) C2009782"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "25",
+"source" : "A251261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A251261 (cc) C20111261",
+"SUID" : 25,
+"name" : "A251261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A251261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "26",
+"source" : "A4261261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A4261261 (cc) C20111261",
+"SUID" : 26,
+"name" : "A4261261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4261261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "27",
+"source" : "A4271261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A4271261 (cc) C20111261",
+"SUID" : 27,
+"name" : "A4271261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4271261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "28",
+"source" : "A11311261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A11311261 (cc) C20111261",
+"SUID" : 28,
+"name" : "A11311261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A11311261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "29",
+"source" : "A15671261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A15671261 (cc) C20111261",
+"SUID" : 29,
+"name" : "A15671261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A15671261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "30",
+"source" : "A41291261",
+"target" : "C20111261",
+"selected" : false,
+"canonicalName" : "A41291261 (cc) C20111261",
+"SUID" : 30,
+"name" : "A41291261 (cc) C20111261",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A41291261 (cc) C20111261"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "31",
+"source" : "A25788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A25788 (cc) C2015788",
+"SUID" : 31,
+"name" : "A25788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "32",
+"source" : "A121788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A121788 (cc) C2015788",
+"SUID" : 32,
+"name" : "A121788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A121788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "33",
+"source" : "A803788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A803788 (cc) C2015788",
+"SUID" : 33,
+"name" : "A803788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A803788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "34",
+"source" : "A992788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A992788 (cc) C2015788",
+"SUID" : 34,
+"name" : "A992788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A992788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "35",
+"source" : "A1270788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A1270788 (cc) C2015788",
+"SUID" : 35,
+"name" : "A1270788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1270788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "36",
+"source" : "A1528788",
+"target" : "C2015788",
+"selected" : false,
+"canonicalName" : "A1528788 (cc) C2015788",
+"SUID" : 36,
+"name" : "A1528788 (cc) C2015788",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1528788 (cc) C2015788"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "37",
+"source" : "A251186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A251186 (cc) C20041186",
+"SUID" : 37,
+"name" : "A251186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A251186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "38",
+"source" : "A671186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A671186 (cc) C20041186",
+"SUID" : 38,
+"name" : "A671186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A671186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "39",
+"source" : "A7501186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A7501186 (cc) C20041186",
+"SUID" : 39,
+"name" : "A7501186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A7501186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "40",
+"source" : "A20011186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A20011186 (cc) C20041186",
+"SUID" : 40,
+"name" : "A20011186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A20011186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "41",
+"source" : "A25891186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A25891186 (cc) C20041186",
+"SUID" : 41,
+"name" : "A25891186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25891186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "42",
+"source" : "A33101186",
+"target" : "C20041186",
+"selected" : false,
+"canonicalName" : "A33101186 (cc) C20041186",
+"SUID" : 42,
+"name" : "A33101186 (cc) C20041186",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A33101186 (cc) C20041186"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "43",
+"source" : "A23338",
+"target" : "C2007338",
+"selected" : false,
+"canonicalName" : "A23338 (cc) C2007338",
+"SUID" : 43,
+"name" : "A23338 (cc) C2007338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A23338 (cc) C2007338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "44",
+"source" : "A25338",
+"target" : "C2007338",
+"selected" : false,
+"canonicalName" : "A25338 (cc) C2007338",
+"SUID" : 44,
+"name" : "A25338 (cc) C2007338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25338 (cc) C2007338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "45",
+"source" : "A762338",
+"target" : "C2007338",
+"selected" : false,
+"canonicalName" : "A762338 (cc) C2007338",
+"SUID" : 45,
+"name" : "A762338 (cc) C2007338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A762338 (cc) C2007338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "46",
+"source" : "A1567338",
+"target" : "C2007338",
+"selected" : false,
+"canonicalName" : "A1567338 (cc) C2007338",
+"SUID" : 46,
+"name" : "A1567338 (cc) C2007338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1567338 (cc) C2007338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "47",
+"source" : "A1747338",
+"target" : "C2008338",
+"selected" : false,
+"canonicalName" : "A1747338 (cc) C2008338",
+"SUID" : 47,
+"name" : "A1747338 (cc) C2008338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1747338 (cc) C2008338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "48",
+"source" : "A3083338",
+"target" : "C2007338",
+"selected" : false,
+"canonicalName" : "A3083338 (cc) C2007338",
+"SUID" : 48,
+"name" : "A3083338 (cc) C2007338",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3083338 (cc) C2007338"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "49",
+"source" : "A25196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A25196 (cc) C2008196",
+"SUID" : 49,
+"name" : "A25196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "50",
+"source" : "A139196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A139196 (cc) C2008196",
+"SUID" : 50,
+"name" : "A139196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A139196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "51",
+"source" : "A680196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A680196 (cc) C2008196",
+"SUID" : 51,
+"name" : "A680196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A680196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "52",
+"source" : "A681196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A681196 (cc) C2008196",
+"SUID" : 52,
+"name" : "A681196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A681196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "53",
+"source" : "A1041196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A1041196 (cc) C2008196",
+"SUID" : 53,
+"name" : "A1041196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1041196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "54",
+"source" : "A3877196",
+"target" : "C2008196",
+"selected" : false,
+"canonicalName" : "A3877196 (cc) C2008196",
+"SUID" : 54,
+"name" : "A3877196 (cc) C2008196",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3877196 (cc) C2008196"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "55",
+"source" : "A25603",
+"target" : "C2016603",
+"selected" : false,
+"canonicalName" : "A25603 (cc) C2016603",
+"SUID" : 55,
+"name" : "A25603 (cc) C2016603",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A25603 (cc) C2016603"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "56",
+"source" : "A40603",
+"target" : "C2016603",
+"selected" : false,
+"canonicalName" : "A40603 (cc) C2016603",
+"SUID" : 56,
+"name" : "A40603 (cc) C2016603",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A40603 (cc) C2016603"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "57",
+"source" : "A136603",
+"target" : "C2016603",
+"selected" : false,
+"canonicalName" : "A136603 (cc) C2016603",
+"SUID" : 57,
+"name" : "A136603 (cc) C2016603",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A136603 (cc) C2016603"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "58",
+"source" : "A1940603",
+"target" : "C2016603",
+"selected" : false,
+"canonicalName" : "A1940603 (cc) C2016603",
+"SUID" : 58,
+"name" : "A1940603 (cc) C2016603",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A1940603 (cc) C2016603"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "59",
+"source" : "A2939603",
+"target" : "C2016603",
+"selected" : false,
+"canonicalName" : "A2939603 (cc) C2016603",
+"SUID" : 59,
+"name" : "A2939603 (cc) C2016603",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A2939603 (cc) C2016603"
+},
+"selected" : false
+}
+
+]
+}
+}

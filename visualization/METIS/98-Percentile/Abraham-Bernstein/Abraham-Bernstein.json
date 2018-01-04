@@ -1,0 +1,119 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A552886",
+"selected":false,
+"cytoscape_alias_list":["Abraham Bernstein"],
+"canonicalName": "Abraham Bernstein",
+"SUID":2,
+"NodeType": "RedWine",
+"name": "Abraham Bernstein",
+"shared_name": "Abraham Bernstein"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2001886",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2001"],
+"canonicalName": "ISWC-2001",
+"SUID":3,
+"NodeType": "WhiteWine",
+"name": "ISWC-2001",
+"shared_name": "ISWC-2001"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4675886",
+"selected":false,
+"cytoscape_alias_list":["María S. Pérez-Hernández"],
+"canonicalName": "María S. Pérez-Hernández",
+"SUID":4,
+"NodeType": "RedWine",
+"name": "María S. Pérez-Hernández",
+"shared_name": "María S. Pérez-Hernández"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C2008886",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2008"],
+"canonicalName": "ISWC-2008",
+"SUID":5,
+"NodeType": "WhiteWine",
+"name": "ISWC-2008",
+"shared_name": "ISWC-2008"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1050
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A552886",
+"target" : "C2001886",
+"selected" : false,
+"canonicalName" : "A552886 (cc) C2001886",
+"SUID" : 1,
+"name" : "A552886 (cc) C2001886",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A552886 (cc) C2001886"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A4675886",
+"target" : "C2008886",
+"selected" : false,
+"canonicalName" : "A4675886 (cc) C2008886",
+"SUID" : 2,
+"name" : "A4675886 (cc) C2008886",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4675886 (cc) C2008886"
+},
+"selected" : false
+}
+
+]
+}
+}

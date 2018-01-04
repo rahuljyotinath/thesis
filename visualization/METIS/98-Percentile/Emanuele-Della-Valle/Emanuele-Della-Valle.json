@@ -1,0 +1,119 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A62630",
+"selected":false,
+"cytoscape_alias_list":["Emanuele Della Valle"],
+"canonicalName": "Emanuele Della Valle",
+"SUID":2,
+"NodeType": "RedWine",
+"name": "Emanuele Della Valle",
+"shared_name": "Emanuele Della Valle"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20102630",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2010"],
+"canonicalName": "ISWC-2010",
+"SUID":3,
+"NodeType": "WhiteWine",
+"name": "ISWC-2010",
+"shared_name": "ISWC-2010"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A10992630",
+"selected":false,
+"cytoscape_alias_list":["Wan Fokkink"],
+"canonicalName": "Wan Fokkink",
+"SUID":4,
+"NodeType": "RedWine",
+"name": "Wan Fokkink",
+"shared_name": "Wan Fokkink"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20112630",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2011"],
+"canonicalName": "ISWC-2011",
+"SUID":5,
+"NodeType": "WhiteWine",
+"name": "ISWC-2011",
+"shared_name": "ISWC-2011"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1050
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A62630",
+"target" : "C20102630",
+"selected" : false,
+"canonicalName" : "A62630 (cc) C20102630",
+"SUID" : 1,
+"name" : "A62630 (cc) C20102630",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A62630 (cc) C20102630"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A10992630",
+"target" : "C20112630",
+"selected" : false,
+"canonicalName" : "A10992630 (cc) C20112630",
+"SUID" : 2,
+"name" : "A10992630 (cc) C20112630",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A10992630 (cc) C20112630"
+},
+"selected" : false
+}
+
+]
+}
+}

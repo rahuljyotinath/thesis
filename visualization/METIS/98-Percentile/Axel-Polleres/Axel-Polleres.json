@@ -1,0 +1,220 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A256397",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":1,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20116397",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2011"],
+"canonicalName": "ISWC-2011",
+"SUID":2,
+"NodeType": "WhiteWine",
+"name": "ISWC-2011",
+"shared_name": "ISWC-2011"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4706397",
+"selected":false,
+"cytoscape_alias_list":["Diego López-de-Ipiña"],
+"canonicalName": "Diego López-de-Ipiña",
+"SUID":3,
+"NodeType": "RedWine",
+"name": "Diego López-de-Ipiña",
+"shared_name": "Diego López-de-Ipiña"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20126397",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2012"],
+"canonicalName": "ISWC-2012",
+"SUID":4,
+"NodeType": "WhiteWine",
+"name": "ISWC-2012",
+"shared_name": "ISWC-2012"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1050
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A254674",
+"selected":false,
+"cytoscape_alias_list":["Axel Polleres"],
+"canonicalName": "Axel Polleres",
+"SUID":7,
+"NodeType": "RedWine",
+"name": "Axel Polleres",
+"shared_name": "Axel Polleres"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1150.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20104674",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2010"],
+"canonicalName": "ISWC-2010",
+"SUID":8,
+"NodeType": "WhiteWine",
+"name": "ISWC-2010",
+"shared_name": "ISWC-2010"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1150.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A48184674",
+"selected":false,
+"cytoscape_alias_list":["Seiichi Mita"],
+"canonicalName": "Seiichi Mita",
+"SUID":9,
+"NodeType": "RedWine",
+"name": "Seiichi Mita",
+"shared_name": "Seiichi Mita"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1200.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20154674",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2015"],
+"canonicalName": "ISWC-2015",
+"SUID":10,
+"NodeType": "WhiteWine",
+"name": "ISWC-2015",
+"shared_name": "ISWC-2015"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1200.0
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A256397",
+"target" : "C20116397",
+"selected" : false,
+"canonicalName" : "A256397 (cc) C20116397",
+"SUID" : 1,
+"name" : "A256397 (cc) C20116397",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A256397 (cc) C20116397"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A4706397",
+"target" : "C20126397",
+"selected" : false,
+"canonicalName" : "A4706397 (cc) C20126397",
+"SUID" : 2,
+"name" : "A4706397 (cc) C20126397",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4706397 (cc) C20126397"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "3",
+"source" : "A254674",
+"target" : "C20104674",
+"selected" : false,
+"canonicalName" : "A254674 (cc) C20104674",
+"SUID" : 3,
+"name" : "A254674 (cc) C20104674",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A254674 (cc) C20104674"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "4",
+"source" : "A48184674",
+"target" : "C20154674",
+"selected" : false,
+"canonicalName" : "A48184674 (cc) C20154674",
+"SUID" : 4,
+"name" : "A48184674 (cc) C20154674",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A48184674 (cc) C20154674"
+},
+"selected" : false
+}
+
+]
+}
+}

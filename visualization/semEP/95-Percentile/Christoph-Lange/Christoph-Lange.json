@@ -1,0 +1,101 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A5373376",
+"selected":false,
+"cytoscape_alias_list":["Tobias Kuhn"],
+"canonicalName": "Tobias Kuhn",
+"SUID":2,
+"NodeType": "RedWine",
+"name": "Tobias Kuhn",
+"shared_name": "Tobias Kuhn"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20153376",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2015"],
+"canonicalName": "ISWC-2015",
+"SUID":3,
+"NodeType": "WhiteWine",
+"name": "ISWC-2015",
+"shared_name": "ISWC-2015"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A14383376",
+"selected":false,
+"cytoscape_alias_list":["Christoph Lange"],
+"canonicalName": "Christoph Lange",
+"SUID":4,
+"NodeType": "RedWine",
+"name": "Christoph Lange",
+"shared_name": "Christoph Lange"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050.0
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A5373376",
+"target" : "C20153376",
+"selected" : false,
+"canonicalName" : "A5373376 (cc) C20153376",
+"SUID" : 1,
+"name" : "A5373376 (cc) C20153376",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A5373376 (cc) C20153376"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A14383376",
+"target" : "C20153376",
+"selected" : false,
+"canonicalName" : "A14383376 (cc) C20153376",
+"SUID" : 2,
+"name" : "A14383376 (cc) C20153376",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A14383376 (cc) C20153376"
+},
+"selected" : false
+}
+
+]
+}
+}

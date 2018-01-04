@@ -1,0 +1,870 @@
+{
+"format_version" : "1.0",
+"generated_by" : "cytoscape-3.2.0",
+"target_cytoscapejs_version" : "~2.1",
+"data" : {
+"selected" : true,
+"__Annotations" : [ ],
+"shared_name" : "WineCheeseNetwork",
+"SUID" : 52,
+"name" : "WineCheeseNetwork"
+},
+"elements" : {
+"nodes" : [{
+"data" : {
+"id":"A4651993",
+"selected":false,
+"cytoscape_alias_list":["Isabel F. Cruz"],
+"canonicalName": "Isabel F. Cruz",
+"SUID":1,
+"NodeType": "RedWine",
+"name": "Isabel F. Cruz",
+"shared_name": "Isabel F. Cruz"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20091993",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2009"],
+"canonicalName": "ISWC-2009",
+"SUID":2,
+"NodeType": "WhiteWine",
+"name": "ISWC-2009",
+"shared_name": "ISWC-2009"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1000
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3101993",
+"selected":false,
+"cytoscape_alias_list":["José Luis Ambite"],
+"canonicalName": "José Luis Ambite",
+"SUID":3,
+"NodeType": "RedWine",
+"name": "José Luis Ambite",
+"shared_name": "José Luis Ambite"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1050
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20101993",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2010"],
+"canonicalName": "ISWC-2010",
+"SUID":4,
+"NodeType": "WhiteWine",
+"name": "ISWC-2010",
+"shared_name": "ISWC-2010"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1150.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A921993",
+"selected":false,
+"cytoscape_alias_list":["Maria-Esther Vidal"],
+"canonicalName": "Maria-Esther Vidal",
+"SUID":5,
+"NodeType": "RedWine",
+"name": "Maria-Esther Vidal",
+"shared_name": "Maria-Esther Vidal"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1100
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3121993",
+"selected":false,
+"cytoscape_alias_list":["Craig A. Knoblock"],
+"canonicalName": "Craig A. Knoblock",
+"SUID":6,
+"NodeType": "RedWine",
+"name": "Craig A. Knoblock",
+"shared_name": "Craig A. Knoblock"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1150
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A4651703",
+"selected":false,
+"cytoscape_alias_list":["Isabel F. Cruz"],
+"canonicalName": "Isabel F. Cruz",
+"SUID":8,
+"NodeType": "RedWine",
+"name": "Isabel F. Cruz",
+"shared_name": "Isabel F. Cruz"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1250
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20141703",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2014"],
+"canonicalName": "ISWC-2014",
+"SUID":9,
+"NodeType": "WhiteWine",
+"name": "ISWC-2014",
+"shared_name": "ISWC-2014"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1250
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A6581703",
+"selected":false,
+"cytoscape_alias_list":["Louiqa Raschid"],
+"canonicalName": "Louiqa Raschid",
+"SUID":10,
+"NodeType": "RedWine",
+"name": "Louiqa Raschid",
+"shared_name": "Louiqa Raschid"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1300
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20131703",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2013"],
+"canonicalName": "ISWC-2013",
+"SUID":11,
+"NodeType": "WhiteWine",
+"name": "ISWC-2013",
+"shared_name": "ISWC-2013"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1350.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20151703",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2015"],
+"canonicalName": "ISWC-2015",
+"SUID":12,
+"NodeType": "WhiteWine",
+"name": "ISWC-2015",
+"shared_name": "ISWC-2015"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1450.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3121703",
+"selected":false,
+"cytoscape_alias_list":["Craig A. Knoblock"],
+"canonicalName": "Craig A. Knoblock",
+"SUID":13,
+"NodeType": "RedWine",
+"name": "Craig A. Knoblock",
+"shared_name": "Craig A. Knoblock"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1350
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3101703",
+"selected":false,
+"cytoscape_alias_list":["José Luis Ambite"],
+"canonicalName": "José Luis Ambite",
+"SUID":14,
+"NodeType": "RedWine",
+"name": "José Luis Ambite",
+"shared_name": "José Luis Ambite"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1400
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A921703",
+"selected":false,
+"cytoscape_alias_list":["Maria-Esther Vidal"],
+"canonicalName": "Maria-Esther Vidal",
+"SUID":15,
+"NodeType": "RedWine",
+"name": "Maria-Esther Vidal",
+"shared_name": "Maria-Esther Vidal"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1450
+},
+"selected":false
+}
+,{
+"data" : {
+"id":"A13632022",
+"selected":false,
+"cytoscape_alias_list":["Daniel P. Miranker"],
+"canonicalName": "Daniel P. Miranker",
+"SUID":18,
+"NodeType": "RedWine",
+"name": "Daniel P. Miranker",
+"shared_name": "Daniel P. Miranker"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1550
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20122022",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2012"],
+"canonicalName": "ISWC-2012",
+"SUID":19,
+"NodeType": "WhiteWine",
+"name": "ISWC-2012",
+"shared_name": "ISWC-2012"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1550
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A6832022",
+"selected":false,
+"cytoscape_alias_list":["Manolis Koubarakis"],
+"canonicalName": "Manolis Koubarakis",
+"SUID":20,
+"NodeType": "RedWine",
+"name": "Manolis Koubarakis",
+"shared_name": "Manolis Koubarakis"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1600
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3462022",
+"selected":false,
+"cytoscape_alias_list":["Claudio Gutierrez"],
+"canonicalName": "Claudio Gutierrez",
+"SUID":21,
+"NodeType": "RedWine",
+"name": "Claudio Gutierrez",
+"shared_name": "Claudio Gutierrez"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1650
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A21562022",
+"selected":false,
+"cytoscape_alias_list":["Michael Schmidt"],
+"canonicalName": "Michael Schmidt",
+"SUID":22,
+"NodeType": "RedWine",
+"name": "Michael Schmidt",
+"shared_name": "Michael Schmidt"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1700
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"C20112022",
+"selected":false,
+"cytoscape_alias_list":["ISWC-2011"],
+"canonicalName": "ISWC-2011",
+"SUID":23,
+"NodeType": "WhiteWine",
+"name": "ISWC-2011",
+"shared_name": "ISWC-2011"
+},
+"position" : {
+	"x" : 1300,
+	"y" : 1950.0
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A922022",
+"selected":false,
+"cytoscape_alias_list":["Maria-Esther Vidal"],
+"canonicalName": "Maria-Esther Vidal",
+"SUID":24,
+"NodeType": "RedWine",
+"name": "Maria-Esther Vidal",
+"shared_name": "Maria-Esther Vidal"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1750
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A3102022",
+"selected":false,
+"cytoscape_alias_list":["José Luis Ambite"],
+"canonicalName": "José Luis Ambite",
+"SUID":25,
+"NodeType": "RedWine",
+"name": "José Luis Ambite",
+"shared_name": "José Luis Ambite"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1800
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A4302022",
+"selected":false,
+"cytoscape_alias_list":["Giuseppe Pirrò"],
+"canonicalName": "Giuseppe Pirrò",
+"SUID":26,
+"NodeType": "RedWine",
+"name": "Giuseppe Pirrò",
+"shared_name": "Giuseppe Pirrò"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1850
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A9922022",
+"selected":false,
+"cytoscape_alias_list":["Evgeny Kharlamov"],
+"canonicalName": "Evgeny Kharlamov",
+"SUID":27,
+"NodeType": "RedWine",
+"name": "Evgeny Kharlamov",
+"shared_name": "Evgeny Kharlamov"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1900
+},
+"selected":false
+}
+ ,
+{
+"data" : {
+"id":"A9932022",
+"selected":false,
+"cytoscape_alias_list":["Dmitriy Zheleznyakov"],
+"canonicalName": "Dmitriy Zheleznyakov",
+"SUID":28,
+"NodeType": "RedWine",
+"name": "Dmitriy Zheleznyakov",
+"shared_name": "Dmitriy Zheleznyakov"
+},
+"position" : {
+	"x" : 1000,
+	"y" : 1950
+},
+"selected":false
+}
+
+],
+"edges" : [
+{"data" : {
+"id" : "1",
+"source" : "A4651993",
+"target" : "C20091993",
+"selected" : false,
+"canonicalName" : "A4651993 (cc) C20091993",
+"SUID" : 1,
+"name" : "A4651993 (cc) C20091993",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4651993 (cc) C20091993"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "2",
+"source" : "A3101993",
+"target" : "C20091993",
+"selected" : false,
+"canonicalName" : "A3101993 (cc) C20091993",
+"SUID" : 2,
+"name" : "A3101993 (cc) C20091993",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3101993 (cc) C20091993"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "3",
+"source" : "A3101993",
+"target" : "C20101993",
+"selected" : false,
+"canonicalName" : "A3101993 (cc) C20101993",
+"SUID" : 3,
+"name" : "A3101993 (cc) C20101993",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3101993 (cc) C20101993"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "4",
+"source" : "A921993",
+"target" : "C20101993",
+"selected" : false,
+"canonicalName" : "A921993 (cc) C20101993",
+"SUID" : 4,
+"name" : "A921993 (cc) C20101993",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A921993 (cc) C20101993"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "5",
+"source" : "A3121993",
+"target" : "C20101993",
+"selected" : false,
+"canonicalName" : "A3121993 (cc) C20101993",
+"SUID" : 5,
+"name" : "A3121993 (cc) C20101993",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3121993 (cc) C20101993"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "6",
+"source" : "A4651703",
+"target" : "C20141703",
+"selected" : false,
+"canonicalName" : "A4651703 (cc) C20141703",
+"SUID" : 6,
+"name" : "A4651703 (cc) C20141703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4651703 (cc) C20141703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "7",
+"source" : "A6581703",
+"target" : "C20141703",
+"selected" : false,
+"canonicalName" : "A6581703 (cc) C20141703",
+"SUID" : 7,
+"name" : "A6581703 (cc) C20141703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A6581703 (cc) C20141703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "8",
+"source" : "A4651703",
+"target" : "C20131703",
+"selected" : false,
+"canonicalName" : "A4651703 (cc) C20131703",
+"SUID" : 8,
+"name" : "A4651703 (cc) C20131703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4651703 (cc) C20131703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "9",
+"source" : "A6581703",
+"target" : "C20131703",
+"selected" : false,
+"canonicalName" : "A6581703 (cc) C20131703",
+"SUID" : 9,
+"name" : "A6581703 (cc) C20131703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A6581703 (cc) C20131703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "10",
+"source" : "A4651703",
+"target" : "C20151703",
+"selected" : false,
+"canonicalName" : "A4651703 (cc) C20151703",
+"SUID" : 10,
+"name" : "A4651703 (cc) C20151703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4651703 (cc) C20151703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "11",
+"source" : "A3121703",
+"target" : "C20141703",
+"selected" : false,
+"canonicalName" : "A3121703 (cc) C20141703",
+"SUID" : 11,
+"name" : "A3121703 (cc) C20141703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3121703 (cc) C20141703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "12",
+"source" : "A3121703",
+"target" : "C20151703",
+"selected" : false,
+"canonicalName" : "A3121703 (cc) C20151703",
+"SUID" : 12,
+"name" : "A3121703 (cc) C20151703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3121703 (cc) C20151703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "13",
+"source" : "A3101703",
+"target" : "C20131703",
+"selected" : false,
+"canonicalName" : "A3101703 (cc) C20131703",
+"SUID" : 13,
+"name" : "A3101703 (cc) C20131703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3101703 (cc) C20131703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "14",
+"source" : "A921703",
+"target" : "C20141703",
+"selected" : false,
+"canonicalName" : "A921703 (cc) C20141703",
+"SUID" : 14,
+"name" : "A921703 (cc) C20141703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A921703 (cc) C20141703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "15",
+"source" : "A921703",
+"target" : "C20131703",
+"selected" : false,
+"canonicalName" : "A921703 (cc) C20131703",
+"SUID" : 15,
+"name" : "A921703 (cc) C20131703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A921703 (cc) C20131703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "16",
+"source" : "A921703",
+"target" : "C20151703",
+"selected" : false,
+"canonicalName" : "A921703 (cc) C20151703",
+"SUID" : 16,
+"name" : "A921703 (cc) C20151703",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A921703 (cc) C20151703"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "17",
+"source" : "A13632022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A13632022 (cc) C20122022",
+"SUID" : 17,
+"name" : "A13632022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A13632022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "18",
+"source" : "A6832022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A6832022 (cc) C20122022",
+"SUID" : 18,
+"name" : "A6832022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A6832022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "19",
+"source" : "A3462022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A3462022 (cc) C20122022",
+"SUID" : 19,
+"name" : "A3462022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3462022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "20",
+"source" : "A21562022",
+"target" : "C20112022",
+"selected" : false,
+"canonicalName" : "A21562022 (cc) C20112022",
+"SUID" : 20,
+"name" : "A21562022 (cc) C20112022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A21562022 (cc) C20112022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "21",
+"source" : "A922022",
+"target" : "C20112022",
+"selected" : false,
+"canonicalName" : "A922022 (cc) C20112022",
+"SUID" : 21,
+"name" : "A922022 (cc) C20112022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A922022 (cc) C20112022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "22",
+"source" : "A3102022",
+"target" : "C20112022",
+"selected" : false,
+"canonicalName" : "A3102022 (cc) C20112022",
+"SUID" : 22,
+"name" : "A3102022 (cc) C20112022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3102022 (cc) C20112022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "23",
+"source" : "A922022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A922022 (cc) C20122022",
+"SUID" : 23,
+"name" : "A922022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A922022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "24",
+"source" : "A3102022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A3102022 (cc) C20122022",
+"SUID" : 24,
+"name" : "A3102022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A3102022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "25",
+"source" : "A4302022",
+"target" : "C20122022",
+"selected" : false,
+"canonicalName" : "A4302022 (cc) C20122022",
+"SUID" : 25,
+"name" : "A4302022 (cc) C20122022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A4302022 (cc) C20122022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "26",
+"source" : "A9922022",
+"target" : "C20112022",
+"selected" : false,
+"canonicalName" : "A9922022 (cc) C20112022",
+"SUID" : 26,
+"name" : "A9922022 (cc) C20112022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A9922022 (cc) C20112022"
+},
+"selected" : false
+}
+,
+{"data" : {
+"id" : "27",
+"source" : "A9932022",
+"target" : "C20112022",
+"selected" : false,
+"canonicalName" : "A9932022 (cc) C20112022",
+"SUID" : 27,
+"name" : "A9932022 (cc) C20112022",
+"interaction" : "cc",
+"shared_interaction" : "cc",
+"shared_name" : "A9932022 (cc) C20112022"
+},
+"selected" : false
+}
+
+]
+}
+}
